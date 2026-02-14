@@ -1,0 +1,2769 @@
+{
+  "Maruti": {
+    "Alto K10": [
+      "STD (Petrol) 3.70 Lakh*",
+      "LXI (Petrol) 4 Lakh*",
+      "Top Selling\nVXI (Petrol) 4.50 Lakh*",
+      "VXI Plus AT (Petrol) 5.45 Lakh*",
+      "VXI Plus (Petrol) 5 Lakh*",
+      "VXI AT (Petrol) 4.95 Lakh*",
+      "Top Selling\nLXI S-CNG (CNG) 4.82 Lakh*",
+      "VXI S-CNG (CNG) 5.32 Lakh*"
+    ],
+    "Alto Tour H1": [
+      "Petrol (Petrol) 4 Lakh*",
+      "CNG (CNG) 4.82 Lakh*"
+    ],
+    "Baleno": [
+      "Sigma (Petrol) 5.99 Lakh*",
+      "Top Selling\nDelta (Petrol) 6.80 Lakh*",
+      "Delta AMT (Petrol) 7.30 Lakh*",
+      "Zeta (Petrol) 7.70 Lakh*",
+      "Zeta AMT (Petrol) 8.20 Lakh*",
+      "Alpha (Petrol) 8.60 Lakh*",
+      "Alpha AMT (Petrol) 9.10 Lakh*",
+      "Top Selling\nDelta CNG (CNG) 7.70 Lakh*",
+      "Zeta CNG (CNG) 8.60 Lakh*"
+    ],
+    "Brezza": [
+      "Lxi (Petrol) 8.26 Lakh*",
+      "Vxi (Petrol) 9.26 Lakh*",
+      "Zxi (Petrol) 10.40 Lakh*",
+      "Vxi AT (Petrol) 10.60 Lakh*",
+      "Zxi DT (Petrol) 10.55 Lakh*",
+      "Top Selling\nZxi Plus (Petrol) 11.51 Lakh*",
+      "Zxi AT (Petrol) 11.75 Lakh*",
+      "Zxi Plus DT (Petrol) 11.66 Lakh*",
+      "Zxi AT DT (Petrol) 11.90 Lakh*",
+      "Zxi Plus AT (Petrol) 12.86 Lakh*",
+      "Zxi Plus AT DT (Petrol) 13.01 Lakh*",
+      "Lxi CNG (CNG) 9.17 Lakh*",
+      "Vxi CNG (CNG) 10.17 Lakh*",
+      "Top Selling\nZxi CNG (CNG) 11.31 Lakh*",
+      "Zxi CNG DT (CNG) 11.46 Lakh*"
+    ],
+    "Celerio": [
+      "LXI (Petrol) 4.70 Lakh*",
+      "ZXI (Petrol) 5.71 Lakh*",
+      "VXI AMT (Petrol) 5.61 Lakh*",
+      "Top Selling\nVXI (Petrol) 5.16 Lakh*",
+      "ZXI Plus (Petrol) 6.28 Lakh*",
+      "ZXI AMT (Petrol) 6.16 Lakh*",
+      "ZXI Plus AMT (Petrol) 6.73 Lakh*",
+      "Top Selling\nVXI CNG (CNG) 5.98 Lakh*"
+    ],
+    "Ciaz": [
+      "Sigma (Petrol) 9.09 Lakh*",
+      "Delta (Petrol) 9.65 Lakh*",
+      "Top Selling\nZeta (Petrol) 10.05 Lakh*",
+      "Alpha (Petrol) 10.82 Lakh*",
+      "Delta AT (Petrol) 10.73 Lakh*",
+      "Zeta AT (Petrol) 11.12 Lakh*",
+      "Alpha AT (Petrol) 11.89 Lakh*"
+    ],
+    "Dzire": [
+      "LXI (Petrol) 6.26 Lakh*",
+      "VXI (Petrol) 7.17 Lakh*",
+      "VXI AMT (Petrol) 7.62 Lakh*",
+      "ZXI (Petrol) 8.18 Lakh*",
+      "ZXI AMT (Petrol) 8.63 Lakh*",
+      "ZXI Plus (Petrol) 8.86 Lakh*",
+      "ZXI Plus AMT (Petrol) 9.31 Lakh*",
+      "VXI CNG (CNG) 8.03 Lakh*",
+      "ZXI CNG (CNG) 9.04 Lakh*"
+    ],
+    "Dzire Tour S": [
+      "STD (Petrol) 6.24 Lakh*",
+      "CNG (CNG) 7.10 Lakh*"
+    ],
+    "Eeco": [
+      "6 Seater STD (Petrol) 5.47 Lakh*",
+      "Top Selling\n5 Seater AC (Petrol) 5.54 Lakh*",
+      "5 Seater STD (Petrol) 5.21 Lakh*",
+      "Top Selling\n5 Seater AC CNG (CNG) 6.36 Lakh*"
+    ],
+    "Eeco Cargo": [
+      "Top Selling\nSTD (Petrol) 5.39 Lakh*",
+      "STD AC CNG (CNG) 6.61 Lakh*",
+      "Top Selling\nSTD CNG (CNG) 6.21 Lakh*"
+    ],
+    "Ertiga": [
+      "Lxi (O) (Petrol) 8.80 Lakh*",
+      "VXi (O) (Petrol) 9.85 Lakh*",
+      "Top Selling\nZxi (O) (Petrol) 10.91 Lakh*",
+      "VXI AT (Petrol) 11.20 Lakh*",
+      "ZXI Plus (Petrol) 11.59 Lakh*",
+      "ZXI AT (Petrol) 12.27 Lakh*",
+      "ZXI Plus AT (Petrol) 12.94 Lakh*",
+      "Top Selling\nVXi (O) CNG (CNG) 10.76 Lakh*",
+      "ZXI (O) CNG (CNG) 11.82 Lakh*"
+    ],
+    "Ertiga Tour": [
+      "Top Selling\nSTD (Petrol) 9.68 Lakh*",
+      "STD CNG (CNG) 10.59 Lakh*"
+    ],
+    "FRONX": [
+      "Sigma (Petrol) 6.85 Lakh*",
+      "Delta (Petrol) 7.65 Lakh*",
+      "Top Selling\nDelta Plus (Petrol) 8.04 Lakh*",
+      "Delta Plus Opt (Petrol) 8.05 Lakh*",
+      "Delta AMT (Petrol) 8.15 Lakh*",
+      "Delta Plus AMT (Petrol) 8.54 Lakh*",
+      "Delta Plus Opt AMT (Petrol) 8.55 Lakh*",
+      "Delta Plus Turbo (Petrol) 8.92 Lakh*",
+      "Zeta Turbo (Petrol) 9.71 Lakh*",
+      "Alpha Turbo (Petrol) 10.56 Lakh*",
+      "Alpha Turbo DT (Petrol) 10.70 Lakh*",
+      "Zeta Turbo AT (Petrol) 10.99 Lakh*",
+      "Alpha Turbo AT (Petrol) 11.84 Lakh*",
+      "Alpha Turbo DT AT (Petrol) 11.98 Lakh*",
+      "Sigma CNG (CNG) 7.79 Lakh*",
+      "Top Selling\nDelta CNG (CNG) 8.59 Lakh*"
+    ],
+    "Grand Vitara": [
+      "Alpha (Petrol) 15.20 Lakh*",
+      "Alpha AT (Petrol) 16.55 Lakh*",
+      "Alpha AT DT (Petrol) 16.70 Lakh*",
+      "Alpha AWD AT (Petrol) 18 Lakh*",
+      "Alpha AWD AT DT (Petrol) 18.15 Lakh*",
+      "Alpha AWD Opt AT (Petrol) 18.58 Lakh*",
+      "Alpha AWD Opt AT DT (Petrol) 18.73 Lakh*",
+      "Alpha DT (Petrol) 15.35 Lakh*",
+      "Alpha Opt (Petrol) 15.78 Lakh*",
+      "Alpha Opt AT (Petrol) 17.13 Lakh*",
+      "Alpha Opt AT DT (Petrol) 17.28 Lakh*",
+      "Alpha Opt DT (Petrol) 15.93 Lakh*",
+      "Alpha Plus Hybrid CVT (Petrol) 19.50 Lakh*",
+      "Alpha Plus Hybrid CVT DT (Petrol) 19.66 Lakh*",
+      "Alpha Plus Opt Hybrid CVT (Petrol) 19.57 Lakh*",
+      "Alpha Plus Opt Hybrid CVT DT (Petrol) 19.72 Lakh*",
+      "Delta (Petrol) 12.10 Lakh*",
+      "Delta AT (Petrol) 13.45 Lakh*",
+      "Delta Plus Hybrid CVT (Petrol) 16.63 Lakh*",
+      "Top Selling\nSigma (Petrol) 10.77 Lakh*",
+      "Zeta (Petrol) 13.70 Lakh*",
+      "Zeta AT (Petrol) 15.05 Lakh*",
+      "Zeta AT DT (Petrol) 15.20 Lakh*",
+      "Zeta DT (Petrol) 13.85 Lakh*",
+      "Zeta Opt (Petrol) 14.28 Lakh*",
+      "Zeta Opt AT (Petrol) 15.63 Lakh*",
+      "Zeta Opt AT DT (Petrol) 15.78 Lakh*",
+      "Zeta Opt DT (Petrol) 14.43 Lakh*",
+      "Zeta Plus Hybrid CVT (Petrol) 17.92 Lakh*",
+      "Zeta Plus Hybrid CVT DT (Petrol) 18.07 Lakh*",
+      "Zeta Plus Opt Hybrid CVT (Petrol) 18.50 Lakh*",
+      "Zeta Plus Opt Hybrid CVT DT (Petrol) 18.66 Lakh*",
+      "Top Selling\nDelta CNG (CNG) 13 Lakh*",
+      "Zeta CNG (CNG) 14.60 Lakh*"
+    ],
+    "Ignis": [
+      "Sigma (Petrol) 5.35 Lakh*",
+      "Delta (Petrol) 5.84 Lakh*",
+      "Top Selling\nZeta (Petrol) 6.38 Lakh*",
+      "Zeta Dual Tone (Petrol) 6.50 Lakh*",
+      "Delta AMT (Petrol) 6.29 Lakh*",
+      "Delta Dual Tone AMT (Petrol) 6.30 Lakh*",
+      "Zeta AMT (Petrol) 6.83 Lakh*",
+      "Zeta Dual Tone AMT (Petrol) 6.95 Lakh*",
+      "Alpha (Petrol) 6.97 Lakh*",
+      "Alpha Dual Tone (Petrol) 7.10 Lakh*",
+      "Alpha AMT (Petrol) 7.42 Lakh*",
+      "Alpha Dual Tone AMT (Petrol) 7.55 Lakh*"
+    ],
+    "Invicto": [
+      "Zeta Plus 7Str (Petrol) 24.97 Lakh*",
+      "Zeta Plus 8Str (Petrol) 25.02 Lakh*",
+      "Top Selling\nAlpha Plus 7Str (Petrol) 28.61 Lakh*"
+    ],
+    "Jimny": [
+      "Zeta (Petrol) 12.31 Lakh*",
+      "Top Selling\nAlpha (Petrol) 13.23 Lakh*",
+      "Zeta AT (Petrol) 13.38 Lakh*",
+      "Alpha Dual Tone (Petrol) 13.39 Lakh*",
+      "Alpha AT (Petrol) 14.29 Lakh*",
+      "Alpha Dual Tone AT (Petrol) 14.45 Lakh*"
+    ],
+    "S-Presso": [
+      "STD (Petrol) 3.50 Lakh*",
+      "LXi (Petrol) 3.80 Lakh*",
+      "Top Selling\nVXI (Petrol) 4.30 Lakh*",
+      "VXi Plus (Petrol) 4.80 Lakh*",
+      "VXi Opt AT (Petrol) 4.75 Lakh*",
+      "VXi Plus Opt AT (Petrol) 5.25 Lakh*",
+      "LXI CNG (CNG) 4.62 Lakh*",
+      "VXI CNG (CNG) 5.12 Lakh*"
+    ],
+    "Swift": [
+      "LXi (Petrol) 5.79 Lakh*",
+      "VXi (Petrol) 6.59 Lakh*",
+      "VXi Opt (Petrol) 6.85 Lakh*",
+      "VXi AMT (Petrol) 7.04 Lakh*",
+      "VXi Opt AMT (Petrol) 7.30 Lakh*",
+      "Top Selling\nZXi (Petrol) 7.53 Lakh*",
+      "ZXi AMT (Petrol) 7.98 Lakh*",
+      "ZXi Plus (Petrol) 8.20 Lakh*",
+      "ZXi Plus DT (Petrol) 8.35 Lakh*",
+      "ZXi Plus AMT (Petrol) 8.65 Lakh*",
+      "ZXi Plus AMT DT (Petrol) 8.80 Lakh*",
+      "VXi CNG (CNG) 7.45 Lakh*",
+      "VXi Opt CNG (CNG) 7.71 Lakh*",
+      "Top Selling\nZXi CNG (CNG) 8.39 Lakh*"
+    ],
+    "Victoris": [
+      "LXI (Petrol) 10.50 Lakh*",
+      "VXI (Petrol) 11.80 Lakh*",
+      "VXI AT (Petrol) 13.36 Lakh*",
+      "ZXI (Petrol) 13.57 Lakh*",
+      "ZXI (O) (Petrol) 14.08 Lakh*",
+      "ZXI AT (Petrol) 15.13 Lakh*",
+      "ZXI Plus (Petrol) 15.24 Lakh*",
+      "ZXI (O) AT (Petrol) 15.64 Lakh*",
+      "ZXI Plus (O) (Petrol) 15.82 Lakh*",
+      "VXI Strong Hybrid (Petrol) 16.38 Lakh*",
+      "ZXI Plus AT (Petrol) 17.19 Lakh*",
+      "ZXI Plus (O) AT (Petrol) 17.77 Lakh*",
+      "ZXI Strong Hybrid (Petrol) 17.80 Lakh*",
+      "ZXI (O) Strong Hybrid (Petrol) 18.39 Lakh*",
+      "ZXI Plus AT AWD (Petrol) 18.64 Lakh*",
+      "ZXI Plus (O) AT AWD (Petrol) 19.22 Lakh*",
+      "ZXI Plus Strong Hybrid (Petrol) 19.47 Lakh*",
+      "ZXI Plus (O) Strong Hybrid (Petrol) 19.99 Lakh*",
+      "LXI CNG (CNG) 11.50 Lakh*",
+      "VXI CNG (CNG) 12.80 Lakh*",
+      "ZXI CNG (CNG) 14.57 Lakh*"
+    ],
+    "Wagon R": [
+      "LXI (Petrol) 4.99 Lakh*",
+      "Top Selling\nVXI (Petrol) 5.52 Lakh*",
+      "ZXI (Petrol) 5.96 Lakh*",
+      "VXI AT (Petrol) 5.97 Lakh*",
+      "ZXI Plus (Petrol) 6.39 Lakh*",
+      "ZXI AT (Petrol) 6.41 Lakh*",
+      "ZXI Plus Dual Tone (Petrol) 6.50 Lakh*",
+      "ZXI Plus AT (Petrol) 6.84 Lakh*",
+      "ZXI Plus AT Dual tone (Petrol) 6.95 Lakh*",
+      "LXI CNG (CNG) 5.89 Lakh*",
+      "Top Selling\nVXI CNG (CNG) 6.42 Lakh*"
+    ],
+    "Wagon R tour": [
+      "Top Selling\nH3 PETROL (Petrol) 4.99 Lakh*",
+      "H3 CNG (CNG) 5.89 Lakh*"
+    ],
+    "XL6": [
+      "Top Selling\nZeta (Petrol) 11.52 Lakh*",
+      "Alpha (Petrol) 12.49 Lakh*",
+      "Alpha Plus (Petrol) 12.97 Lakh*",
+      "Zeta AT (Petrol) 12.87 Lakh*",
+      "Alpha Plus Dual Tone (Petrol) 13.13 Lakh*",
+      "Alpha AT (Petrol) 13.84 Lakh*",
+      "Alpha Plus AT (Petrol) 14.32 Lakh*",
+      "Alpha Plus AT Dual Tone (Petrol) 14.48 Lakh*",
+      "Top Selling\nZeta CNG (CNG) 12.43 Lakh*"
+    ],
+    "e Vitara": []
+  },
+  "Tata": {
+    "Altroz": [
+      "Pure Diesel (Diesel) 8.10 Lakh*",
+      "Creative S Diesel (Diesel) 9.32 Lakh*",
+      "Accomplished S Diesel (Diesel) 10.17 Lakh*",
+      "Smart (Petrol) 6.30 Lakh*",
+      "Pure (Petrol) 7.04 Lakh*",
+      "Pure S (Petrol) 7.36 Lakh*",
+      "Pure AMT (Petrol) 7.58 Lakh*",
+      "Pure S AMT (Petrol) 7.91 Lakh*",
+      "Creative (Petrol) 7.95 Lakh*",
+      "Creative S (Petrol) 8.28 Lakh*",
+      "Creative AMT (Petrol) 8.50 Lakh*",
+      "Creative S AMT (Petrol) 8.83 Lakh*",
+      "Accomplished S (Petrol) 9.14 Lakh*",
+      "Creative S DCA (Petrol) 9.42 Lakh*",
+      "Accomplished S DCA (Petrol) 10.28 Lakh*",
+      "Accomplished Plus S DCA (Petrol) 10.51 Lakh*",
+      "Smart CNG (CNG) 7.22 Lakh*",
+      "Pure CNG (CNG) 8.04 Lakh*",
+      "Pure S CNG (CNG) 8.37 Lakh*",
+      "Creative CNG (CNG) 8.96 Lakh*",
+      "Creative S CNG (CNG) 9.15 Lakh*",
+      "Accomplished S CNG (CNG) 10.15 Lakh*"
+    ],
+    "Curvv": [
+      "Smart Diesel (Diesel) 11.10 Lakh*",
+      "Pure Plus Diesel (Diesel) 12.36 Lakh*",
+      "Pure Plus S Diesel (Diesel) 13.04 Lakh*",
+      "Creative Diesel (Diesel) 13.52 Lakh*",
+      "Pure Plus Diesel DCA (Diesel) 13.81 Lakh*",
+      "Top Selling\nCreative S Diesel (Diesel) 14 Lakh*",
+      "Pure Plus S Diesel DCA (Diesel) 14.48 Lakh*",
+      "Creative Plus S Diesel (Diesel) 15.04 Lakh*",
+      "Creative S Diesel DCA (Diesel) 15.45 Lakh*",
+      "Accomplished S Diesel (Diesel) 16 Lakh*",
+      "Accomplished S Dark Diesel (Diesel) 16.12 Lakh*",
+      "Creative Plus S Diesel DCA (Diesel) 16.48 Lakh*",
+      "Accomplished Plus A Diesel (Diesel) 17.29 Lakh*",
+      "Accomplished Plus A Dark Diesel (Diesel) 17.40 Lakh*",
+      "Accomplished S Diesel DCA (Diesel) 17.45 Lakh*",
+      "Accomplished S Dark Diesel DCA (Diesel) 17.56 Lakh*",
+      "Accomplished Plus A Diesel DCA (Diesel) 18.73 Lakh*",
+      "Accomplished Plus A Dark Diesel DCA (Diesel) 18.85 Lakh*",
+      "Smart (Petrol) 9.66 Lakh*",
+      "Pure Plus (Petrol) 10.91 Lakh*",
+      "Pure Plus S (Petrol) 11.59 Lakh*",
+      "Creative (Petrol) 12.07 Lakh*",
+      "Pure Plus DCA (Petrol) 12.36 Lakh*",
+      "Top Selling\nCreative S (Petrol) 12.55 Lakh*",
+      "Pure Plus S DCA (Petrol) 13.04 Lakh*",
+      "Creative DCA (Petrol) 13.52 Lakh*",
+      "Creative Plus S (Petrol) 13.59 Lakh*",
+      "Creative S Hyperion (Petrol) 13.71 Lakh*",
+      "Creative S DCA (Petrol) 14 Lakh*",
+      "Accomplished S (Petrol) 14.55 Lakh*",
+      "Creative Plus S Hyperion (Petrol) 14.75 Lakh*",
+      "Creative Plus S DCA (Petrol) 15.04 Lakh*",
+      "Accomplished S Hyperion (Petrol) 15.71 Lakh*",
+      "Accomplished S Hyperion Dark (Petrol) 15.92 Lakh*",
+      "Accomplished S DCA (Petrol) 16 Lakh*",
+      "Creative Plus S Hyperion DCA (Petrol) 16.19 Lakh*",
+      "Accomplished Plus A Hyperion (Petrol) 17.16 Lakh*",
+      "Accomplished S Hyperion DCA (Petrol) 17.16 Lakh*",
+      "Accomplished Plus A Hyperion Dark (Petrol) 17.37 Lakh*",
+      "Accomplished S Hyperion Dark DCA (Petrol) 17.37 Lakh*",
+      "Accomplished Plus A Hyperion DCA (Petrol) 18.61 Lakh*",
+      "Accomplished Plus A Hyperion Dark DCA (Petrol) 18.82 Lakh*"
+    ],
+    "Curvv EV": [
+      "Top Selling\nCreative 45 (Electric) 17.49 Lakh*",
+      "Accomplished 45 (Electric) 18.49 Lakh*",
+      "Accomplished 55 (Electric) 19.25 Lakh*",
+      "Accomplished Plus S 45 (Electric) 19.29 Lakh*",
+      "Accomplished Plus S 55 (Electric) 19.99 Lakh*",
+      "Empowered Plus 55 (Electric) 21.25 Lakh*",
+      "Empowered Plus A 55 (Electric) 21.99 Lakh*",
+      "Empowered Plus A 55 Dark (Electric) 22.24 Lakh*"
+    ],
+    "Harrier": [
+      "Smart (Diesel) 14 Lakh*",
+      "Pure X (Diesel) 17 Lakh*",
+      "Pure X Dark (Diesel) 17.63 Lakh*",
+      "Adventure X (Diesel) 17.96 Lakh*",
+      "Top Selling\nAdventure X Plus (Diesel) 18.30 Lakh*",
+      "Adventure X Dark (Diesel) 18.48 Lakh*",
+      "Pure X AT (Diesel) 18.53 Lakh*",
+      "Adventure X Plus Dark (Diesel) 18.82 Lakh*",
+      "Pure X Dark AT (Diesel) 18.91 Lakh*",
+      "Adventure X AT (Diesel) 19.57 Lakh*",
+      "Adventure X Plus AT (Diesel) 19.90 Lakh*",
+      "Adventure X Dark AT (Diesel) 20 Lakh*",
+      "Adventure X Plus Dark AT (Diesel) 20.42 Lakh*",
+      "Fearless X (Diesel) 21.13 Lakh*",
+      "Fearless X Dark (Diesel) 21.65 Lakh*",
+      "Fearless X Plus Dark (Diesel) 21.65 Lakh*",
+      "Fearless X AT (Diesel) 22.79 Lakh*",
+      "Fearless X Plus (Diesel) 23.12 Lakh*",
+      "Fearless X Dark AT (Diesel) 23.31 Lakh*",
+      "Fearless X Plus Stealth (Diesel) 23.83 Lakh*",
+      "Fearless X Plus AT (Diesel) 24.54 Lakh*",
+      "Fearless X Plus Dark AT (Diesel) 25.06 Lakh*",
+      "Fearless X Plus Stealth AT (Diesel) 25.25 Lakh*",
+      "Recently Launched\nSmart TGDI (Petrol) 12.89 Lakh*",
+      "Recently Launched\nPure X TGDI (Petrol) 16 Lakh*",
+      "Recently Launched\nPure X DARK TGDI (Petrol) 16.63 Lakh*",
+      "Recently Launched\nAdventure X TGDI (Petrol) 16.86 Lakh*",
+      "Recently Launched\nFearless X Plus TGDI (Petrol) 17.12 Lakh*",
+      "Recently Launched\nAdventure X Plus TGDI (Petrol) 17.14 Lakh*",
+      "Recently Launched\nAdventure X DARK TGDI (Petrol) 17.38 Lakh*",
+      "Recently Launched\nPure X TGDI AT (Petrol) 17.53 Lakh*",
+      "Recently Launched\nAdventure X Plus DARK TGDI (Petrol) 17.66 Lakh*",
+      "Recently Launched\nPure X DARK TGDI AT (Petrol) 17.91 Lakh*",
+      "Recently Launched\nAdventure X TGDI AT (Petrol) 18.47 Lakh*",
+      "Recently Launched\nAdventure X Plus TGDI AT (Petrol) 18.74 Lakh*",
+      "Recently Launched\nAdventure X DARK TGDI AT (Petrol) 18.90 Lakh*",
+      "Recently Launched\nAdventure X Plus DARK TGDI AT (Petrol) 19.26 Lakh*",
+      "Recently Launched\nFearless X TGDI (Petrol) 20 Lakh*",
+      "Recently Launched\nFearless X DARK TGDI (Petrol) 20.65 Lakh*",
+      "Recently Launched\nFearless X TGDI AT (Petrol) 21.79 Lakh*",
+      "Recently Launched\nFearless X DARK TGDI AT (Petrol) 22.31 Lakh*",
+      "Recently Launched\nFearless X Plus DARK TGDI (Petrol) 22.64 Lakh*",
+      "Recently Launched\nFearless Ultra TGDI (Petrol) 22.72 Lakh*",
+      "Recently Launched\nFearless Ultra Red DARK TGDI (Petrol) 23.27 Lakh*",
+      "Recently Launched\nFearless X Plus TGDI AT (Petrol) 23.54 Lakh*",
+      "Recently Launched\nFearless X Plus DARK TGDI AT (Petrol) 24.06 Lakh*",
+      "Recently Launched\nFearless Ultra TGDI AT (Petrol) 24.14 Lakh*",
+      "Recently Launched\nFearless Ultra Red DARK TGDI AT (Petrol) 24.69 Lakh*"
+    ],
+    "Harrier EV": [
+      "Adventure 65 (Electric) 21.49 Lakh*",
+      "Adventure 65 ACFC (Electric) 21.98 Lakh*",
+      "Adventure S 65 (Electric) 21.99 Lakh*",
+      "Adventure S 65 ACFC (Electric) 22.48 Lakh*",
+      "Fearless Plus 65 (Electric) 23.99 Lakh*",
+      "Fearless Plus 65 ACFC (Electric) 24.48 Lakh*",
+      "Fearless Plus 75 (Electric) 24.99 Lakh*",
+      "Fearless Plus 75 ACFC (Electric) 25.48 Lakh*",
+      "Empowered 75 (Electric) 27.49 Lakh*",
+      "Empowered 75 ACFC (Electric) 27.98 Lakh*",
+      "Empowered 75 Stealth (Electric) 28.24 Lakh*",
+      "Empowered 75 Stealth ACFC (Electric) 28.73 Lakh*",
+      "Empowered QWD 75 (Electric) 28.99 Lakh*",
+      "Empowered QWD 75 ACFC (Electric) 29.48 Lakh*",
+      "Empowered QWD 75 Stealth (Electric) 29.74 Lakh*",
+      "Empowered QWD 75 Stealth ACFC (Electric) 30.23 Lakh*"
+    ],
+    "Nexon": [
+      "Smart Plus Diesel (Diesel) 9.01 Lakh*",
+      "Smart Plus S Diesel (Diesel) 9.28 Lakh*",
+      "Pure Plus Diesel (Diesel) 9.91 Lakh*",
+      "Pure Plus S Diesel (Diesel) 10.18 Lakh*",
+      "Pure Plus Diesel AMT (Diesel) 10.54 Lakh*",
+      "Creative Diesel (Diesel) 11.17 Lakh*",
+      "Creative Plus S Diesel (Diesel) 11.44 Lakh*",
+      "Creative Diesel AMT (Diesel) 11.80 Lakh*",
+      "Creative Plus S Dark Diesel (Diesel) 11.80 Lakh*",
+      "Creative Plus S Diesel AMT (Diesel) 12.07 Lakh*",
+      "Creative Plus PS DT Diesel (Diesel) 12.34 Lakh*",
+      "Creative Plus S Dark Diesel AMT (Diesel) 12.43 Lakh*",
+      "Creative Plus PS Dark Diesel (Diesel) 12.70 Lakh*",
+      "Creative Plus PS DT Diesel AMT (Diesel) 12.97 Lakh*",
+      "Top Selling\nFearless Plus PS DT Diesel (Diesel) 13.24 Lakh*",
+      "Creative Plus PS Dark Diesel AMT (Diesel) 13.33 Lakh*",
+      "Fearless Plus PS Dark Diesel (Diesel) 13.42 Lakh*",
+      "Fearless Plus PS Red Dark Diesel (Diesel) 13.52 Lakh*",
+      "Fearless Plus PS DT Diesel AMT (Diesel) 13.87 Lakh*",
+      "Fearless Plus PS Dark Diesel AMT (Diesel) 14.05 Lakh*",
+      "Fearless Plus PS Red Dark Diesel AMT (Diesel) 14.15 Lakh*",
+      "Smart (Petrol) 7.32 Lakh*",
+      "Smart Plus (Petrol) 8 Lakh*",
+      "Smart Plus S (Petrol) 8.30 Lakh*",
+      "Smart Plus AMT (Petrol) 8.78 Lakh*",
+      "Pure Plus (Petrol) 8.87 Lakh*",
+      "Pure Plus S (Petrol) 9.15 Lakh*",
+      "Pure Plus AMT (Petrol) 9.51 Lakh*",
+      "Pure Plus S AMT (Petrol) 9.79 Lakh*",
+      "Creative (Petrol) 10 Lakh*",
+      "Creative Plus S (Petrol) 10.34 Lakh*",
+      "Creative AMT (Petrol) 10.70 Lakh*",
+      "Creative Plus S Dark (Petrol) 10.70 Lakh*",
+      "Creative Plus S AMT (Petrol) 10.98 Lakh*",
+      "Creative DCA (Petrol) 11.16 Lakh*",
+      "Creative Plus PS DT (Petrol) 11.25 Lakh*",
+      "Creative Plus S Dark AMT (Petrol) 11.34 Lakh*",
+      "Creative Plus PS Dark (Petrol) 11.62 Lakh*",
+      "Creative Plus PS DT DCA (Petrol) 12.35 Lakh*",
+      "Top Selling\nFearless Plus PS Dark (Petrol) 12.35 Lakh*",
+      "Fearless Plus PS Red Dark (Petrol) 12.45 Lakh*",
+      "Creative Plus PS Dark DCA (Petrol) 12.72 Lakh*",
+      "Fearless Plus PS DT (Petrol) 13.24 Lakh*",
+      "Fearless Plus PS DT DCA (Petrol) 13.26 Lakh*",
+      "Fearless Plus PS Dark DCA (Petrol) 13.45 Lakh*",
+      "Fearless Plus A PS DT DCA (Petrol) 13.53 Lakh*",
+      "Fearless Plus A PS Dark DCA (Petrol) 13.82 Lakh*",
+      "Fearless Plus A PS Red Dark DCA (Petrol) 13.82 Lakh*",
+      "Smart CNG (CNG) 8.23 Lakh*",
+      "Smart Plus CNG (CNG) 9.15 Lakh*",
+      "Smart Plus S CNG (CNG) 9.42 Lakh*",
+      "Pure Plus CNG (CNG) 9.79 Lakh*",
+      "Pure Plus S CNG (CNG) 10 Lakh*",
+      "Creative CNG (CNG) 10.98 Lakh*",
+      "Creative Plus S CNG (CNG) 11.25 Lakh*",
+      "Creative Plus S Dark CNG (CNG) 11.62 Lakh*",
+      "Creative Plus PS DT CNG (CNG) 12.17 Lakh*",
+      "Creative Plus PS Dark CNG (CNG) 12.53 Lakh*",
+      "Fearless Plus PS DT CNG (CNG) 13.08 Lakh*",
+      "Fearless Plus PS Dark CNG (CNG) 13.26 Lakh*",
+      "Fearless Plus PS Red Dark CNG (CNG) 13.36 Lakh*"
+    ],
+    "Nexon EV": [
+      "Creative Plus MR (Electric) 12.49 Lakh*",
+      "Fearless MR (Electric) 13.29 Lakh*",
+      "Fearless Plus MR (Electric) 13.79 Lakh*",
+      "Creative 45 (Electric) 13.99 Lakh*",
+      "Fearless Plus S MR (Electric) 14.29 Lakh*",
+      "Empowered MR (Electric) 14.79 Lakh*",
+      "Fearless 45 (Electric) 14.99 Lakh*",
+      "Empowered 45 (Electric) 15.99 Lakh*",
+      "Empowered Plus 45 (Electric) 16.99 Lakh*",
+      "Empowered Plus 45 Red Dark (Electric) 17.19 Lakh*",
+      "Empowered Plus A 45 (Electric) 17.29 Lakh*",
+      "Empowered Plus A 45 Dark (Electric) 17.49 Lakh*",
+      "Empowered Plus A 45 Red Dark (Electric) 17.49 Lakh*"
+    ],
+    "Punch": [
+      "Pure (Petrol) 5.50 Lakh*",
+      "Pure Opt (Petrol) 6 Lakh*",
+      "Adventure (Petrol) 6.56 Lakh*",
+      "Adventure Plus (Petrol) 6.88 Lakh*",
+      "Adventure S (Petrol) 7.06 Lakh*",
+      "Adventure AMT (Petrol) 7.11 Lakh*",
+      "Adventure Plus AMT (Petrol) 7.43 Lakh*",
+      "Adventure Plus S (Petrol) 7.52 Lakh*",
+      "Adventure S AMT (Petrol) 7.61 Lakh*",
+      "Accomplished Plus (Petrol) 7.70 Lakh*",
+      "Accomplished Plus Camo (Petrol) 7.84 Lakh*",
+      "Adventure Plus S AMT (Petrol) 8.07 Lakh*",
+      "Accomplished Plus S (Petrol) 8.14 Lakh*",
+      "Creative Plus (Petrol) 8.14 Lakh*",
+      "Accomplished Plus AMT (Petrol) 8.25 Lakh*",
+      "Creative Plus Camo (Petrol) 8.28 Lakh*",
+      "Accomplished Plus S Camo (Petrol) 8.30 Lakh*",
+      "Accomplished Plus Camo AMT (Petrol) 8.39 Lakh*",
+      "Creative Plus S (Petrol) 8.55 Lakh*",
+      "Accomplished Plus S AMT (Petrol) 8.69 Lakh*",
+      "Creative Plus AMT (Petrol) 8.69 Lakh*",
+      "Creative Plus S Camo (Petrol) 8.69 Lakh*",
+      "Creative Plus Camo AMT (Petrol) 8.83 Lakh*",
+      "Accomplished Plus S Camo AMT (Petrol) 8.85 Lakh*",
+      "Creative Plus S AMT (Petrol) 9.10 Lakh*",
+      "Creative Plus S Camo AMT (Petrol) 9.24 Lakh*",
+      "Top Selling\nPure CNG (CNG) 6.68 Lakh*",
+      "Adventure CNG (CNG) 7.43 Lakh*",
+      "Adventure Plus CNG (CNG) 7.75 Lakh*",
+      "Adventure S CNG (CNG) 7.93 Lakh*",
+      "Adventure Plus S CNG (CNG) 8.39 Lakh*",
+      "Accomplished Plus CNG (CNG) 8.71 Lakh*",
+      "Accomplished Plus Camo CNG (CNG) 8.85 Lakh*",
+      "Accomplished Plus S CNG (CNG) 9.15 Lakh*",
+      "Accomplished Plus S Camo CNG (CNG) 9.30 Lakh*"
+    ],
+    "Punch EV": [
+      "Smart (Electric) 9.99 Lakh*",
+      "Smart Plus (Electric) 11.14 Lakh*",
+      "Adventure (Electric) 11.84 Lakh*",
+      "Adventure S (Electric) 12.14 Lakh*",
+      "Empowered (Electric) 12.64 Lakh*",
+      "Adventure LR (Electric) 12.84 Lakh*",
+      "Empowered Plus (Electric) 12.84 Lakh*",
+      "Empowered S (Electric) 12.84 Lakh*",
+      "Adventure S LR (Electric) 13.14 Lakh*",
+      "Empowered Plus S (Electric) 13.14 Lakh*",
+      "Top Selling\nAdventure LR AC FC (Electric) 13.34 Lakh*",
+      "Empowered LR (Electric) 13.44 Lakh*",
+      "Adventure S LR AC FC (Electric) 13.64 Lakh*",
+      "Empowered Plus LR (Electric) 13.64 Lakh*",
+      "Empowered S LR (Electric) 13.64 Lakh*",
+      "Empowered LR AC FC (Electric) 13.94 Lakh*",
+      "Empowered Plus S LR (Electric) 13.94 Lakh*",
+      "Empowered Plus LR AC FC (Electric) 14.14 Lakh*",
+      "Empowered S LR AC FC (Electric) 14.14 Lakh*",
+      "Empowered Plus S LR AC FC (Electric) 14.44 Lakh*"
+    ],
+    "Safari": [
+      "Smart (Diesel) 14.66 Lakh*",
+      "Pure X (Diesel) 17.49 Lakh*",
+      "Pure X Dark (Diesel) 18.01 Lakh*",
+      "Adventure X Plus (Diesel) 18.91 Lakh*",
+      "Pure X AT (Diesel) 18.91 Lakh*",
+      "Adventure X Plus Dark (Diesel) 19.43 Lakh*",
+      "Pure X Dark AT (Diesel) 19.53 Lakh*",
+      "Adventure X Plus AT (Diesel) 20.52 Lakh*",
+      "Adventure X Plus Dark AT (Diesel) 21.04 Lakh*",
+      "Accomplished X (Diesel) 21.84 Lakh*",
+      "Accomplished X Dark (Diesel) 22.36 Lakh*",
+      "Accomplished X AT (Diesel) 23.50 Lakh*",
+      "Accomplished X Plus (Diesel) 23.73 Lakh*",
+      "Accomplished X Plus 6S (Diesel) 23.83 Lakh*",
+      "Accomplished X Dark AT (Diesel) 24.02 Lakh*",
+      "Accomplished X Plus Dark (Diesel) 24.07 Lakh*",
+      "Accomplished X Plus 6S Dark (Diesel) 24.16 Lakh*",
+      "Accomplished X Plus Stealth (Diesel) 24.44 Lakh*",
+      "Top Selling\nAccomplished X Plus AT (Diesel) 25.15 Lakh*",
+      "Accomplished X Plus 6S AT (Diesel) 25.25 Lakh*",
+      "Accomplished X Plus Dark AT (Diesel) 25.48 Lakh*",
+      "Accomplished X Plus 6S Dark AT (Diesel) 25.58 Lakh*",
+      "Accomplished X Plus Stealth AT (Diesel) 25.86 Lakh*",
+      "Accomplished X Plus 6S Stealth AT (Diesel) 25.96 Lakh*",
+      "Recently Launched\nSmart TGDI (Petrol) 13.29 Lakh*",
+      "Recently Launched\nPure X TGDI (Petrol) 16.49 Lakh*",
+      "Recently Launched\nPure X DARK TGDI (Petrol) 17.01 Lakh*",
+      "Recently Launched\nAdventure X Plus TGDI (Petrol) 17.75 Lakh*",
+      "Recently Launched\nPure X TGDI AT (Petrol) 17.91 Lakh*",
+      "Recently Launched\nAdventure X Plus DARK TGDI (Petrol) 18.27 Lakh*",
+      "Recently Launched\nPure X DARK TGDI AT (Petrol) 18.53 Lakh*",
+      "Recently Launched\nAdventure X Plus TGDI AT (Petrol) 19.36 Lakh*",
+      "Recently Launched\nAdventure X Plus DARK TGDI AT (Petrol) 19.88 Lakh*",
+      "Recently Launched\nAccomplished X TGDI (Petrol) 20.84 Lakh*",
+      "Recently Launched\nAccomplished X DARK TGDI (Petrol) 21.36 Lakh*",
+      "Recently Launched\nAccomplished X TGDI AT (Petrol) 22.50 Lakh*",
+      "Recently Launched\nAccomplished X Plus TGDI (Petrol) 22.73 Lakh*",
+      "Recently Launched\nAccomplished X Plus 6S TGDI (Petrol) 22.83 Lakh*",
+      "Recently Launched\nAccomplished X DARK TGDI AT (Petrol) 23.02 Lakh*",
+      "Recently Launched\nAccomplished X Plus DARK TGDI (Petrol) 23.07 Lakh*",
+      "Recently Launched\nAccomplished X Plus 6S DARK TGDI (Petrol) 23.16 Lakh*",
+      "Recently Launched\nAccomplished Ultra TGDI (Petrol) 23.33 Lakh*",
+      "Recently Launched\nAccomplished Ultra 6S TGDI (Petrol) 23.43 Lakh*",
+      "Recently Launched\nAccomplished Ultra Red DARK TGDI (Petrol) 23.68 Lakh*",
+      "Recently Launched\nAccomplished Ultra Red DARK 6S TGDI (Petrol) 23.78 Lakh*",
+      "Recently Launched\nAccomplished X Plus TGDI AT (Petrol) 24.15 Lakh*",
+      "Recently Launched\nAccomplished X Plus 6S TGDI AT (Petrol) 24.25 Lakh*",
+      "Recently Launched\nAccomplished X Plus DARK TGDI AT (Petrol) 24.48 Lakh*",
+      "Recently Launched\nAccomplished X Plus 6S DARK TGDI AT (Petrol) 24.58 Lakh*",
+      "Recently Launched\nAccomplished Ultra TGDI AT (Petrol) 24.75 Lakh*",
+      "Recently Launched\nAccomplished Ultra 6S TGDI AT (Petrol) 24.85 Lakh*",
+      "Recently Launched\nAccomplished Ultra Red DARK TGDI AT (Petrol) 25.10 Lakh*",
+      "Recently Launched\nAccomplished Ultra Red DARK 6S TGDI AT (Petrol) 25.20 Lakh*"
+    ],
+    "Sierra": [
+      "Recently Launched\nSmart Plus Diesel (Diesel) 12.99 Lakh*",
+      "Recently Launched\nPure Diesel (Diesel) 14.49 Lakh*",
+      "Recently Launched\nPure Diesel AT (Diesel) 15.99 Lakh*",
+      "Recently Launched\nPure Plus DIesel (Diesel) 15.99 Lakh*",
+      "Recently Launched\nAdventure Diesel (Diesel) 16.49 Lakh*",
+      "Recently Launched\nAdventure Plus Diesel (Diesel) 17.19 Lakh*",
+      "Recently Launched\nPure Plus Diesel AT (Diesel) 17.49 Lakh*",
+      "Recently Launched\nAdventure Plus Diesel AT (Diesel) 18.49 Lakh*",
+      "Recently Launched\nAccomplished Diesel (Diesel) 18.99 Lakh*",
+      "Recently Launched\nAccomplished Diesel AT (Diesel) 19.99 Lakh*",
+      "Recently Launched\nAccomplished Plus Diesel (Diesel) 20.29 Lakh*",
+      "Recently Launched\nAccomplished Plus Diesel AT (Diesel) 21.29 Lakh*",
+      "Smart Plus (Petrol) 11.49 Lakh*",
+      "Recently Launched\nPure (Petrol) 12.99 Lakh*",
+      "Recently Launched\nPure DCA (Petrol) 14.49 Lakh*",
+      "Recently Launched\nPure Plus (Petrol) 14.49 Lakh*",
+      "Recently Launched\nAdventure (Petrol) 15.29 Lakh*",
+      "Recently Launched\nAdventure Plus (Petrol) 15.99 Lakh*",
+      "Recently Launched\nPure Plus DCA (Petrol) 15.99 Lakh*",
+      "Recently Launched\nAdventure DCA (Petrol) 16.79 Lakh*",
+      "Recently Launched\nAccomplished (Petrol) 17.99 Lakh*",
+      "Recently Launched\nAdventure Plus TGDi (Petrol) 17.99 Lakh*",
+      "Recently Launched\nAccomplished TGDi (Petrol) 19.99 Lakh*",
+      "Recently Launched\nAccomplished Plus TGDi (Petrol) 20.99 Lakh*"
+    ],
+    "Tiago": [
+      "XE (Petrol) 4.57 Lakh*",
+      "Top Selling\nXT (Petrol) 5.81 Lakh*",
+      "XZ (Petrol) 6.40 Lakh*",
+      "XZA AMT (Petrol) 6.91 Lakh*",
+      "XTA AMT (Petrol) 6.31 Lakh*",
+      "XM (Petrol) 5.31 Lakh*",
+      "XZ Plus (Petrol) 6.77 Lakh*",
+      "XZA AMT CNG (CNG) 7.82 Lakh*",
+      "XE CNG (CNG) 5.49 Lakh*",
+      "XZ CNG (CNG) 7.32 Lakh*",
+      "XTA AMT CNG (CNG) 7.23 Lakh*",
+      "Top Selling\nXM CNG (CNG) 6.22 Lakh*",
+      "XT CNG (CNG) 6.72 Lakh*"
+    ],
+    "Tiago EV": [
+      "XE MR (Electric) 7.99 Lakh*",
+      "XT LR (Electric) 10.14 Lakh*",
+      "XT MR (Electric) 8.99 Lakh*",
+      "XZ Plus Tech LUX LR (Electric) 11.14 Lakh*"
+    ],
+    "Tiago NRG": [
+      "XZ (Petrol) 6.68 Lakh*",
+      "XZA AMT (Petrol) 7.18 Lakh*",
+      "XZ CNG (CNG) 7.59 Lakh*",
+      "XZA AMT CNG (CNG) 8.10 Lakh*"
+    ],
+    "Tigor": [
+      "XM (Petrol) 5.49 Lakh*",
+      "XT (Petrol) 6.22 Lakh*",
+      "XTA AMT (Petrol) 6.72 Lakh*",
+      "XZ (Petrol) 6.77 Lakh*",
+      "XZA AMT (Petrol) 7.27 Lakh*",
+      "Top Selling\nXZ Plus (Petrol) 7.32 Lakh*",
+      "XZ Plus Lux (Petrol) 7.78 Lakh*",
+      "XZA Plus AMT (Petrol) 7.82 Lakh*",
+      "XT CNG (CNG) 7.14 Lakh*",
+      "XZA AMT CNG (CNG) 8.19 Lakh*",
+      "XZ CNG (CNG) 7.68 Lakh*",
+      "XZA Plus AMT CNG (CNG) 8.74 Lakh*",
+      "XZ Plus CNG (CNG) 8.23 Lakh*",
+      "XZ Plus Lux CNG (CNG) 8.69 Lakh*"
+    ],
+    "Tigor EV": [
+      "XE (Electric) 12.49 Lakh*",
+      "XT (Electric) 12.99 Lakh*",
+      "Top Selling\nXZ Plus (Electric) 13.49 Lakh*",
+      "XZ Plus LUX (Electric) 13.75 Lakh*"
+    ],
+    "Yodha Pickup": [
+      "Eco (Diesel) 6.95 Lakh*",
+      "Crew Cabin (Diesel) 7.09 Lakh*",
+      "1500 (Diesel) 7.10 Lakh*",
+      "Top Selling\n4x4 (Diesel) 7.50 Lakh*"
+    ]
+  },
+  "Kia": {
+    "Carens": [
+      "Premium Opt Diesel (Diesel) 12.77 Lakh*",
+      "Premium Opt (Petrol) 10.99 Lakh*",
+      "Premium Opt CNG (CNG) 11.77 Lakh*"
+    ],
+    "Carens Clavis": [
+      "HTE Diesel (Diesel) 13.01 Lakh*",
+      "HTE (O) Diesel (Diesel) 14.02 Lakh*",
+      "HTK Diesel (Diesel) 14.95 Lakh*",
+      "HTK Plus Diesel (Diesel) 15.90 Lakh*",
+      "HTK Plus (O) Diesel (Diesel) 16.67 Lakh*",
+      "HTK Plus 6Str Diesel AT (Diesel) 17.34 Lakh*",
+      "HTK Plus Diesel AT (Diesel) 17.34 Lakh*",
+      "HTX Diesel (Diesel) 18.79 Lakh*",
+      "HTE (Petrol) 11.08 Lakh*",
+      "HTE (O) (Petrol) 12.04 Lakh*",
+      "HTE (O) Turbo (Petrol) 12.91 Lakh*",
+      "HTK (Petrol) 13.01 Lakh*",
+      "HTK Turbo (Petrol) 13.87 Lakh*",
+      "HTK Plus Turbo (Petrol) 14.84 Lakh*",
+      "HTK Plus (O) Turbo (Petrol) 15.61 Lakh*",
+      "HTK Plus Turbo 6Str DCT (Petrol) 16.28 Lakh*",
+      "HTK Plus Turbo DCT (Petrol) 16.28 Lakh*",
+      "HTK Plus (O) Turbo 6Str DCT (Petrol) 17.05 Lakh*",
+      "HTK Plus (O) Turbo DCT (Petrol) 17.05 Lakh*",
+      "HTX Turbo (Petrol) 17.73 Lakh*",
+      "HTX Plus Turbo (Petrol) 18.69 Lakh*",
+      "HTX Plus Turbo 6Str (Petrol) 18.69 Lakh*",
+      "HTX Plus Turbo iMT (Petrol) 18.98 Lakh*",
+      "HTX Plus Turbo iMT 6Str (Petrol) 18.98 Lakh*",
+      "HTX Turbo iMT (Petrol) 18.98 Lakh*",
+      "HTX (O) Turbo 6Str DCT (Petrol) 19.27 Lakh*",
+      "HTX (O) Turbo DCT (Petrol) 19.27 Lakh*",
+      "HTX Plus Turbo DCT (Petrol) 20.71 Lakh*",
+      "HTX Plus Turbo DCT 6Str (Petrol) 20.71 Lakh*"
+    ],
+    "Carens Clavis EV": [
+      "HTK Plus (Electric) 17.99 Lakh*",
+      "HTX E (Electric) 19.99 Lakh*",
+      "HTX (Electric) 20.49 Lakh*",
+      "HTX E ER (Electric) 21.99 Lakh*",
+      "HTX ER (Electric) 22.49 Lakh*",
+      "HTX Plus ER (Electric) 24.49 Lakh*"
+    ],
+    "Carnival": [
+      "Top Selling\nLimousine Plus (Diesel) 59.42 Lakh*"
+    ],
+    "EV6": [
+      "GT Line (Electric) 65.97 Lakh*"
+    ],
+    "EV9": [
+      "Top Selling\nGT Line (Electric) 1.30 Cr*"
+    ],
+    "Seltos": [
+      "HTE Diesel (Diesel) 12.59 Lakh*",
+      "HTE Opt Diesel (Diesel) 13.69 Lakh*",
+      "HTK Diesel (Diesel) 14.69 Lakh*",
+      "HTE Opt Diesel AT (Diesel) 14.99 Lakh*",
+      "HTK Opt Diesel (Diesel) 15.79 Lakh*",
+      "HTK Diesel AT (Diesel) 15.99 Lakh*",
+      "HTK Opt Diesel AT (Diesel) 17.09 Lakh*",
+      "HTX Diesel (Diesel) 17.19 Lakh*",
+      "HTX A Diesel (Diesel) 18.29 Lakh*",
+      "HTX Diesel AT (Diesel) 18.49 Lakh*",
+      "HTX A Diesel AT (Diesel) 19.59 Lakh*",
+      "GTX Diesel AT (Diesel) 19.79 Lakh*",
+      "X-Line Diesel AT (Diesel) 19.79 Lakh*",
+      "GTX A Diesel AT (Diesel) 19.99 Lakh*",
+      "X-Line A Diesel AT (Diesel) 19.99 Lakh*",
+      "HTE (Petrol) 10.99 Lakh*",
+      "HTE Opt (Petrol) 12.09 Lakh*",
+      "HTE Opt TGDi iMT (Petrol) 12.89 Lakh*",
+      "HTK (Petrol) 13.09 Lakh*",
+      "HTE Opt iVT (Petrol) 13.39 Lakh*",
+      "HTK TGDi iMT (Petrol) 13.89 Lakh*",
+      "HTK Opt (Petrol) 14.19 Lakh*",
+      "HTK iVT (Petrol) 14.39 Lakh*",
+      "HTK Opt TGDi iMT (Petrol) 14.99 Lakh*",
+      "HTK Opt iVT (Petrol) 15.49 Lakh*",
+      "HTX (Petrol) 15.59 Lakh*",
+      "HTK Opt TGDi DCT (Petrol) 16.29 Lakh*",
+      "HTX A (Petrol) 16.69 Lakh*",
+      "HTX iVT (Petrol) 16.89 Lakh*",
+      "HTX TGDi DCT (Petrol) 17.69 Lakh*",
+      "HTX A iVT (Petrol) 17.99 Lakh*",
+      "GTX iVT (Petrol) 18.39 Lakh*",
+      "X-Line iVT (Petrol) 18.39 Lakh*",
+      "HTX A TGDi DCT (Petrol) 18.79 Lakh*",
+      "GTX TGDi DCT (Petrol) 19.19 Lakh*",
+      "X-Line TGDi DCT (Petrol) 19.19 Lakh*",
+      "GTX A iVT (Petrol) 19.49 Lakh*",
+      "X-Line A iVT (Petrol) 19.49 Lakh*",
+      "GTX A TGDi DCT (Petrol) 19.99 Lakh*",
+      "X-Line A TGDi DCT (Petrol) 19.99 Lakh*"
+    ],
+    "Seltos 2023-2025": [
+      "HTE (O) (Petrol) 10.79 Lakh*",
+      "HTE (Petrol) 10.90 Lakh*",
+      "HTE Diesel iMT (Diesel) 12 Lakh*",
+      "HTK (Petrol) 12.18 Lakh*",
+      "HTE (O) Diesel (Diesel) 12.32 Lakh*",
+      "HTE Diesel (Diesel) 12.46 Lakh*",
+      "HTK (O) (Petrol) 12.57 Lakh*",
+      "HTK Diesel iMT (Diesel) 13.60 Lakh*",
+      "HTK Diesel (Diesel) 13.60 Lakh*",
+      "HTK Plus (O) (Petrol) 13.93 Lakh*",
+      "HTK (O) Diesel (Diesel) 14.07 Lakh*",
+      "HTK Plus Diesel iMT (Diesel) 15 Lakh*",
+      "HTK Plus Turbo iMT (Petrol) 15.20 Lakh*",
+      "HTX (Petrol) 15.24 Lakh*",
+      "HTK Plus (O) iVT (Petrol) 15.24 Lakh*",
+      "HTK Plus (O) Diesel (Diesel) 15.43 Lakh*",
+      "HTK Plus IVT (Petrol) 15.50 Lakh*",
+      "HTK Plus Diesel (Diesel) 15.63 Lakh*",
+      "HTK Plus (Petrol) 15.78 Lakh*",
+      "HTX (O) (Petrol) 16.15 Lakh*",
+      "Gravity (Petrol) 16.63 Lakh*",
+      "HTX IVT (Petrol) 16.64 Lakh*",
+      "HTK Plus (O) Diesel AT (Diesel) 16.65 Lakh*",
+      "HTX Diesel (Diesel) 16.75 Lakh*",
+      "HTK Plus Diesel AT (Diesel) 17 Lakh*",
+      "HTX Diesel iMT (Diesel) 17.27 Lakh*",
+      "HTX (O) iVT (Petrol) 17.44 Lakh*",
+      "HTX (O) Diesel (Diesel) 17.74 Lakh*",
+      "HTX Diesel AT (Diesel) 18.02 Lakh*",
+      "Gravity iVT (Petrol) 18.06 Lakh*",
+      "Gravity Diesel (Diesel) 18.21 Lakh*",
+      "HTX Plus Turbo iMT (Petrol) 18.73 Lakh*",
+      "HTX Plus Diesel (Diesel) 18.84 Lakh*",
+      "HTX Plus Diesel iMT (Diesel) 18.95 Lakh*",
+      "GTX Diesel AT (Diesel) 19.08 Lakh*",
+      "GTX Turbo DCT (Petrol) 19.08 Lakh*",
+      "GTX Plus Turbo DCT (Petrol) 19.27 Lakh*",
+      "GTX Plus Diesel AT (Diesel) 19.27 Lakh*",
+      "GTX Plus S Diesel AT (Diesel) 19.40 Lakh*",
+      "GTX Plus S Turbo DCT (Petrol) 19.40 Lakh*",
+      "X-Line S DIesel AT (Diesel) 19.65 Lakh*",
+      "X-Line S Turbo DCT (Petrol) 19.65 Lakh*",
+      "HTX Plus Turbo DCT (Petrol) 19.73 Lakh*",
+      "X-Line Turbo DCT (Petrol) 19.81 Lakh*",
+      "X-Line Diesel AT (Diesel) 19.81 Lakh*"
+    ],
+    "Sonet": [
+      "HTE (O) Diesel (Diesel) 8.98 Lakh*",
+      "HTK (O) Diesel (Diesel) 9.94 Lakh*",
+      "Top Selling\nHTK Plus Diesel (Diesel) 10.30 Lakh*",
+      "HTK Plus (O) Diesel (Diesel) 10.78 Lakh*",
+      "HTX Diesel (Diesel) 11.25 Lakh*",
+      "HTX Diesel AT (Diesel) 12.03 Lakh*",
+      "GTX Plus Diesel AT (Diesel) 14 Lakh*",
+      "HTE (Petrol) 7.30 Lakh*",
+      "HTE (O) (Petrol) 7.70 Lakh*",
+      "HTK (Petrol) 8.41 Lakh*",
+      "HTK (O) (Petrol) 8.74 Lakh*",
+      "HTK Turbo iMT (Petrol) 8.79 Lakh*",
+      "HTK (O) Turbo iMT (Petrol) 9.10 Lakh*",
+      "Top Selling\nHTK Plus (Petrol) 9.10 Lakh*",
+      "HTK Plus Turbo iMT (Petrol) 9.47 Lakh*",
+      "HTK Plus (O) (Petrol) 9.59 Lakh*",
+      "HTK Plus (O) Turbo iMT (Petrol) 10.05 Lakh*",
+      "HTX Turbo iMT (Petrol) 10.80 Lakh*",
+      "HTX Turbo DCT (Petrol) 11.60 Lakh*",
+      "GTX Plus Turbo DCT (Petrol) 13.51 Lakh*",
+      "X-line Turbo DCT (Petrol) 13.65 Lakh*"
+    ],
+    "Syros": [
+      "HTK Opt Diesel (Diesel) 10.14 Lakh*",
+      "HTK Plus Diesel (Diesel) 11.46 Lakh*",
+      "HTX Diesel (Diesel) 12.80 Lakh*",
+      "HTX Plus Diesel AT (Diesel) 15.22 Lakh*",
+      "HTX Plus Opt Diesel AT (Diesel) 15.94 Lakh*",
+      "HTK Turbo (Petrol) 8.67 Lakh*",
+      "HTK Opt Turbo (Petrol) 9.39 Lakh*",
+      "HTK Plus Turbo (Petrol) 10.74 Lakh*",
+      "HTK Plus Turbo DCT (Petrol) 11.92 Lakh*",
+      "HTX Turbo (Petrol) 12.10 Lakh*",
+      "HTX Turbo DCT (Petrol) 13.29 Lakh*",
+      "HTX Plus Turbo DCT (Petrol) 14.56 Lakh*",
+      "HTX Plus Opt Turbo DCT (Petrol) 15.29 Lakh*"
+    ]
+  },
+  "Toyota": {
+    "Camry": [
+      "Top Selling\nElegance (Petrol) 47.48 Lakh*",
+      "Sprint Edition (Petrol) 47.48 Lakh*"
+    ],
+    "Fortuner": [
+      "4X2 Diesel (Diesel) 34.80 Lakh*",
+      "Leader Edition 4x2 Diesel (Diesel) 34.79 Lakh*",
+      "4X4 Diesel (Diesel) 38.68 Lakh*",
+      "Top Selling\n4X2 Diesel AT (Diesel) 36.96 Lakh*",
+      "GR S 4X4 Diesel AT (Diesel) 49.59 Lakh*",
+      "Leader Edition 4x2 Diesel AT (Diesel) 36.92 Lakh*",
+      "Neo Drive (Diesel) 42.37 Lakh*",
+      "Top Selling\n4X2 AT (Petrol) 34.16 Lakh*"
+    ],
+    "Fortuner Legender": [
+      "4x2 AT (Diesel) 42.17 Lakh*",
+      "4x4 (Diesel) 44.30 Lakh*",
+      "Neo Drive (Diesel) 47.46 Lakh*"
+    ],
+    "Glanza": [
+      "E (Petrol) 6.39 Lakh*",
+      "S (Petrol) 7.24 Lakh*",
+      "S AMT (Petrol) 7.74 Lakh*",
+      "Top Selling\nG (Petrol) 8.14 Lakh*",
+      "G AMT (Petrol) 8.64 Lakh*",
+      "V (Petrol) 8.98 Lakh*",
+      "V AMT (Petrol) 9.15 Lakh*",
+      "S CNG (CNG) 8.06 Lakh*",
+      "G CNG (CNG) 8.96 Lakh*"
+    ],
+    "Hilux": [
+      "STD (Diesel) 28.02 Lakh*",
+      "High (Diesel) 34.67 Lakh*",
+      "Top Selling\nHigh AT (Diesel) 35.37 Lakh*"
+    ],
+    "Innova Crysta": [
+      "2.4 GX 7Str (Diesel) 18.85 Lakh*",
+      "2.4 GX 8Str (Diesel) 18.85 Lakh*",
+      "2.4 GX Plus 7Str (Diesel) 20.47 Lakh*",
+      "Top Selling\n2.4 GX Plus 8Str (Diesel) 20.52 Lakh*",
+      "2.4 VX 7Str (Diesel) 23.95 Lakh*",
+      "2.4 VX 8Str (Diesel) 24 Lakh*",
+      "2.4 Zx 7Str (Diesel) 25.53 Lakh*"
+    ],
+    "Innova Hycross": [
+      "Top Selling\nG Fleet 7STR (Petrol) 18.48 Lakh*",
+      "G Fleet 8STR (Petrol) 18.53 Lakh*",
+      "GX 7STR (Petrol) 19.15 Lakh*",
+      "GX 8STR (Petrol) 19.20 Lakh*",
+      "GX (O) 8STR (Petrol) 20.43 Lakh*",
+      "GX (O) 7STR (Petrol) 20.56 Lakh*",
+      "VX 7STR Hybrid (Petrol) 26.30 Lakh*",
+      "VX 8STR Hybrid (Petrol) 26.35 Lakh*",
+      "VX(O) 7STR Hybrid (Petrol) 28.27 Lakh*",
+      "VX(O) 8STR Hybrid (Petrol) 28.32 Lakh*",
+      "ZX Hybrid (Petrol) 30.66 Lakh*",
+      "ZX(O) Hybrid (Petrol) 31.30 Lakh*"
+    ],
+    "Land Cruiser 300": [
+      "Top Selling\nZX (Diesel) 2.16 Cr*",
+      "GR S (Diesel) 2.25 Cr*"
+    ],
+    "Rumion": [
+      "Top Selling\nS (Petrol) 10.44 Lakh*",
+      "G (Petrol) 11.56 Lakh*",
+      "S AT (Petrol) 11.89 Lakh*",
+      "V (Petrol) 12.27 Lakh*",
+      "G AT (Petrol) 12.91 Lakh*",
+      "V AT (Petrol) 13.62 Lakh*",
+      "Top Selling\nS CNG (CNG) 11.36 Lakh*"
+    ],
+    "Taisor": [
+      "E (Petrol) 7.21 Lakh*",
+      "Top Selling\nS (Petrol) 8 Lakh*",
+      "S Plus (Petrol) 8.33 Lakh*",
+      "S AMT (Petrol) 8.53 Lakh*",
+      "S Plus AMT (Petrol) 8.86 Lakh*",
+      "G Turbo (Petrol) 9.79 Lakh*",
+      "V Turbo (Petrol) 10.63 Lakh*",
+      "V Turbo Dual Tone (Petrol) 10.78 Lakh*",
+      "G Turbo AT (Petrol) 11.07 Lakh*",
+      "V Turbo AT (Petrol) 11.91 Lakh*",
+      "V Turbo AT Dual Tone (Petrol) 12.06 Lakh*",
+      "E CNG (CNG) 8.11 Lakh*"
+    ],
+    "Urban Cruiser EV": [],
+    "Urban Cruiser Hyryder": [
+      "Top Selling\nE (Petrol) 10.95 Lakh*",
+      "S (Petrol) 12.46 Lakh*",
+      "S AT (Petrol) 13.62 Lakh*",
+      "G Opt (Petrol) 14.23 Lakh*",
+      "G Opt AT (Petrol) 15.39 Lakh*",
+      "V (Petrol) 15.73 Lakh*",
+      "V Dual Tone (Petrol) 15.92 Lakh*",
+      "S HYBRID (Petrol) 16.46 Lakh*",
+      "V AT (Petrol) 16.89 Lakh*",
+      "V Dual Tone AT (Petrol) 17.08 Lakh*",
+      "V AWD AT (Petrol) 18.29 Lakh*",
+      "G Opt HYBRID (Petrol) 18.44 Lakh*",
+      "V AWD Dual Tone AT (Petrol) 18.48 Lakh*",
+      "G Opt HYBRID Dual Tone (Petrol) 18.64 Lakh*",
+      "V HYBRID (Petrol) 19.57 Lakh*",
+      "V HYBRID Dual Tone (Petrol) 19.76 Lakh*",
+      "S CNG (CNG) 13.33 Lakh*",
+      "Top Selling\nG CNG (CNG) 15.29 Lakh*"
+    ],
+    "Vellfire": [
+      "Hi (Petrol) 1.20 Cr*",
+      "Top Selling\nVIP Executive Lounge (Petrol) 1.30 Cr*"
+    ]
+  },
+  "Hyundai": {
+    "Alcazar": [
+      "Executive Diesel (Diesel) 15.49 Lakh*",
+      "Prestige Diesel (Diesel) 16.62 Lakh*",
+      "Corporate Diesel (Diesel) 17.36 Lakh*",
+      "Corporate Diesel AT (Diesel) 18.73 Lakh*",
+      "Platinum Diesel (Diesel) 18.93 Lakh*",
+      "Platinum DT Diesel (Diesel) 19.07 Lakh*",
+      "Top Selling\nPlatinum Diesel AT (Diesel) 20.22 Lakh*",
+      "Platinum 6Str Diesel AT (Diesel) 20.31 Lakh*",
+      "Platinum Diesel AT DT (Diesel) 20.37 Lakh*",
+      "Platinum 6Str Diesel AT DT (Diesel) 20.46 Lakh*",
+      "Signature Diesel AT (Diesel) 20.87 Lakh*",
+      "Signature Diesel AT DT (Diesel) 21.01 Lakh*",
+      "Signature Diesel AT Knight (Diesel) 21.01 Lakh*",
+      "Signature 6Str Diesel AT (Diesel) 21.06 Lakh*",
+      "Signature 6Str Diesel AT DT (Diesel) 21.20 Lakh*",
+      "Executive (Petrol) 14.50 Lakh*",
+      "Prestige (Petrol) 16.73 Lakh*",
+      "Prestige DCT (Petrol) 18 Lakh*",
+      "Platinum (Petrol) 18.93 Lakh*",
+      "Platinum DT (Petrol) 19.07 Lakh*",
+      "Top Selling\nPlatinum DCT (Petrol) 20.22 Lakh*",
+      "Platinum 6Str DCT (Petrol) 20.31 Lakh*",
+      "Platinum DT DCT (Petrol) 20.37 Lakh*",
+      "Platinum 6Str DT DCT (Petrol) 20.46 Lakh*",
+      "Signature DCT (Petrol) 20.87 Lakh*",
+      "Signature DCT Knight (Petrol) 21.01 Lakh*",
+      "Signature DT DCT (Petrol) 21.01 Lakh*",
+      "Signature 6Str DCT (Petrol) 21.06 Lakh*",
+      "Signature 6Str DT DCT (Petrol) 21.20 Lakh*"
+    ],
+    "Aura": [
+      "E (Petrol) 6 Lakh*",
+      "S Corporate (Petrol) 6.84 Lakh*",
+      "S (Petrol) 6.86 Lakh*",
+      "S AMT (Petrol) 7.39 Lakh*",
+      "Top Selling\nSX (Petrol) 7.64 Lakh*",
+      "SX Option (Petrol) 8.10 Lakh*",
+      "SX Plus AMT (Petrol) 8.29 Lakh*",
+      "E CNG (CNG) 6.90 Lakh*",
+      "S CNG (CNG) 7.76 Lakh*",
+      "S Corporate CNG (CNG) 7.85 Lakh*",
+      "Top Selling\nSX CNG (CNG) 8.54 Lakh*"
+    ],
+    "Creta": [
+      "E Diesel (Diesel) 12.40 Lakh*",
+      "EX Diesel (Diesel) 13.49 Lakh*",
+      "EX (O) Diesel (Diesel) 14.12 Lakh*",
+      "S Diesel (Diesel) 14.48 Lakh*",
+      "EX (O) Diesel AT (Diesel) 15.46 Lakh*",
+      "S (O) Diesel (Diesel) 15.67 Lakh*",
+      "S (O) Knight Diesel DT (Diesel) 15.79 Lakh*",
+      "S (O) Knight Diesel (Diesel) 15.86 Lakh*",
+      "S (O) Knight Diesel AT (Diesel) 17.09 Lakh*",
+      "S (O) Diesel AT (Diesel) 17.12 Lakh*",
+      "SX Tech Diesel (Diesel) 17.23 Lakh*",
+      "S (O) Knight Diesel AT DT (Diesel) 17.24 Lakh*",
+      "SX Premium Diesel (Diesel) 17.31 Lakh*",
+      "SX Tech Diesel DT (Diesel) 17.37 Lakh*",
+      "SX Premium DT Diesel (Diesel) 17.45 Lakh*",
+      "SX (O) Diesel (Diesel) 18.39 Lakh*",
+      "SX (O) Knight Diesel (Diesel) 18.53 Lakh*",
+      "SX (O) Diesel DT (Diesel) 18.53 Lakh*",
+      "SX (O) Knight Diesel DT (Diesel) 18.68 Lakh*",
+      "King Diesel (Diesel) 18.80 Lakh*",
+      "King Diesel DT (Diesel) 18.95 Lakh*",
+      "SX (O) Diesel AT (Diesel) 19.31 Lakh*",
+      "SX (O) Diesel AT DT (Diesel) 19.45 Lakh*",
+      "SX (O) Knight Diesel AT (Diesel) 19.65 Lakh*",
+      "King Diesel AT (Diesel) 19.72 Lakh*",
+      "SX (O) Knight Diesel AT DT (Diesel) 19.79 Lakh*",
+      "King Diesel AT DT (Diesel) 19.86 Lakh*",
+      "King Knight Diesel AT (Diesel) 20.05 Lakh*",
+      "King Limited Edition Diesel AT (Diesel) 20.20 Lakh*",
+      "King Knight Diesel AT DT (Diesel) 20.20 Lakh*",
+      "E (Petrol) 10.79 Lakh*",
+      "EX (Petrol) 11.96 Lakh*",
+      "EX (O) (Petrol) 12.59 Lakh*",
+      "S (Petrol) 13.07 Lakh*",
+      "EX(O) iVT (Petrol) 13.94 Lakh*",
+      "S (O) (Petrol) 14.09 Lakh*",
+      "S (O) Knight DT (Petrol) 14.26 Lakh*",
+      "S (O) Knight (Petrol) 14.28 Lakh*",
+      "Top Selling\nSX (Petrol) 14.95 Lakh*",
+      "SX DT (Petrol) 15.09 Lakh*",
+      "S (O) iVT (Petrol) 15.54 Lakh*",
+      "S (O) Knight iVT (Petrol) 15.56 Lakh*",
+      "SX Tech (Petrol) 15.70 Lakh*",
+      "S (O) Knight iVT DT (Petrol) 15.71 Lakh*",
+      "SX Premium (Petrol) 15.79 Lakh*",
+      "SX Tech DT (Petrol) 15.84 Lakh*",
+      "SX Premium DT (Petrol) 15.93 Lakh*",
+      "SX (O) (Petrol) 16.86 Lakh*",
+      "SX (O) Knight (Petrol) 17 Lakh*",
+      "SX (O) DT (Petrol) 17.01 Lakh*",
+      "SX Tech iVT (Petrol) 17.14 Lakh*",
+      "SX (O) Knight DT (Petrol) 17.15 Lakh*",
+      "SX Premium iVT (Petrol) 17.23 Lakh*",
+      "King (Petrol) 17.27 Lakh*",
+      "SX Tech iVT DT (Petrol) 17.29 Lakh*",
+      "SX Premium iVT DT (Petrol) 17.38 Lakh*",
+      "King DT (Petrol) 17.41 Lakh*",
+      "SX (O) iVT (Petrol) 18.27 Lakh*",
+      "SX (O) Knight iVT (Petrol) 18.41 Lakh*",
+      "SX (O) iVT DT (Petrol) 18.42 Lakh*",
+      "SX (O) Knight iVT DT (Petrol) 18.56 Lakh*",
+      "King iVT (Petrol) 18.68 Lakh*",
+      "King Knight iVT (Petrol) 18.82 Lakh*",
+      "King iVT DT (Petrol) 18.82 Lakh*",
+      "King Knight iVT DT (Petrol) 18.97 Lakh*",
+      "King Limited Edition iVT (Petrol) 18.97 Lakh*",
+      "SX (O) Turbo DCT (Petrol) 19.49 Lakh*",
+      "SX (O) Turbo DCT DT (Petrol) 19.64 Lakh*",
+      "King Turbo DCT (Petrol) 19.91 Lakh*",
+      "King Turbo DCT DT (Petrol) 20.05 Lakh*"
+    ],
+    "Creta Electric": [
+      "Executive (Electric) 18.02 Lakh*",
+      "Executive Tech (Electric) 19 Lakh*",
+      "Smart (Electric) 19 Lakh*",
+      "Smart (O) (Electric) 19.50 Lakh*",
+      "Smart (O) DT (Electric) 19.65 Lakh*",
+      "Executive (O) LR (Electric) 20 Lakh*",
+      "Premium (Electric) 20 Lakh*",
+      "Premium DT (Electric) 20.15 Lakh*",
+      "Smart (O) HC (Electric) 20.23 Lakh*",
+      "Smart (O) HC DT (Electric) 20.38 Lakh*",
+      "Premium HC (Electric) 20.73 Lakh*",
+      "Premium HC DT (Electric) 20.88 Lakh*",
+      "Excellence (Electric) 21.30 Lakh*",
+      "Excellence Knight (Electric) 21.45 Lakh*",
+      "Excellence DT (Electric) 21.45 Lakh*",
+      "Smart (O) LR (Electric) 21.53 Lakh*",
+      "Excellence Knight DT (Electric) 21.60 Lakh*",
+      "Smart (O) LR DT (Electric) 21.65 Lakh*",
+      "Excellence HC (Electric) 22.03 Lakh*",
+      "Excellence HC Knight (Electric) 22.18 Lakh*",
+      "Excellence HC DT (Electric) 22.18 Lakh*",
+      "Excellence LR HC DT (Electric) 22.18 Lakh*",
+      "Smart (O) LR HC (Electric) 22.26 Lakh*",
+      "Excellence HC Knight DT (Electric) 22.33 Lakh*",
+      "Smart (O) LR HC DT (Electric) 22.38 Lakh*",
+      "Excellence LR (Electric) 23.67 Lakh*",
+      "Excellence LR Knight (Electric) 23.82 Lakh*",
+      "Excellence LR DT (Electric) 23.82 Lakh*",
+      "Excellence LR Knight DT (Electric) 23.96 Lakh*",
+      "Excellence LR HC (Electric) 24.40 Lakh*",
+      "Excellence LR HC Knight (Electric) 24.55 Lakh*",
+      "Excellence LR HC Knight DT (Electric) 24.70 Lakh*"
+    ],
+    "Creta N Line": [
+      "N10 (Petrol) 19.02 Lakh*",
+      "N10 DCT (Petrol) 19.95 Lakh*",
+      "N10 DCT Dual Tone (Petrol) 20.09 Lakh*",
+      "N10 Dual Tone (Petrol) 19.17 Lakh*",
+      "N8 DCT (Petrol) 17.83 Lakh*",
+      "N8 DCT Dual Tone (Petrol) 17.97 Lakh*"
+    ],
+    "Exter": [
+      "EX (Petrol) 5.64 Lakh*",
+      "EX Opt (Petrol) 6 Lakh*",
+      "S Smart (Petrol) 7.03 Lakh*",
+      "S (Petrol) 7.13 Lakh*",
+      "S Plus (Petrol) 7.36 Lakh*",
+      "SX Smart (Petrol) 7.51 Lakh*",
+      "S Smart AMT (Petrol) 7.68 Lakh*",
+      "SX (Petrol) 7.70 Lakh*",
+      "S AMT (Petrol) 7.78 Lakh*",
+      "SX Tech (Petrol) 7.83 Lakh*",
+      "SX Knight (Petrol) 7.83 Lakh*",
+      "S Plus AMT (Petrol) 8 Lakh*",
+      "SX Smart AMT (Petrol) 8.12 Lakh*",
+      "SX AMT (Petrol) 8.31 Lakh*",
+      "Top Selling\nSX Opt (Petrol) 8.31 Lakh*",
+      "SX DT AMT (Petrol) 8.44 Lakh*",
+      "SX Knight AMT (Petrol) 8.45 Lakh*",
+      "SX Tech AMT (Petrol) 8.49 Lakh*",
+      "SX Knight DT AMT (Petrol) 8.58 Lakh*",
+      "SX DT (Petrol) 8.66 Lakh*",
+      "SX Knight DT (Petrol) 8.80 Lakh*",
+      "SX Opt Connect Knight (Petrol) 8.98 Lakh*",
+      "SX Opt Connect DT (Petrol) 8.98 Lakh*",
+      "SX Opt AMT (Petrol) 9.07 Lakh*",
+      "SX Opt Connect Knight DT (Petrol) 9.09 Lakh*",
+      "SX Opt Connect AMT (Petrol) 9.35 Lakh*",
+      "SX Opt Connect Knight AMT (Petrol) 9.38 Lakh*",
+      "SX Opt Connect DT AMT (Petrol) 9.57 Lakh*",
+      "SX Opt Connect Knight DT AMT (Petrol) 9.61 Lakh*",
+      "EX Dual CNG (CNG) 6.87 Lakh*",
+      "S Executive CNG (CNG) 7.83 Lakh*",
+      "S Smart Dual CNG (CNG) 7.89 Lakh*",
+      "S Executive Dual CNG (CNG) 7.99 Lakh*",
+      "S Executive Plus Dual CNG (CNG) 8.23 Lakh*",
+      "Top Selling\nSX Smart Dual CNG (CNG) 8.45 Lakh*",
+      "SX CNG (CNG) 8.46 Lakh*",
+      "SX Dual CNG (CNG) 8.58 Lakh*",
+      "SX Dual Knight CNG (CNG) 8.72 Lakh*",
+      "SX Tech CNG (CNG) 8.77 Lakh*"
+    ],
+    "Grand i10 Nios": [
+      "Era (Petrol) 5.55 Lakh*",
+      "Magna (Petrol) 6.28 Lakh*",
+      "Corporate (Petrol) 6.51 Lakh*",
+      "Top Selling\nSportz (Petrol) 6.83 Lakh*",
+      "Magna AMT (Petrol) 6.85 Lakh*",
+      "Sportz DT (Petrol) 7.01 Lakh*",
+      "Sportz Opt (Petrol) 7.08 Lakh*",
+      "Corporate AMT (Petrol) 7.12 Lakh*",
+      "Sportz AMT (Petrol) 7.36 Lakh*",
+      "Asta (Petrol) 7.40 Lakh*",
+      "Sportz Opt AMT (Petrol) 7.62 Lakh*",
+      "Asta AMT (Petrol) 7.92 Lakh*",
+      "Magna CNG (CNG) 7.22 Lakh*",
+      "Sportz CNG (CNG) 7.59 Lakh*",
+      "Top Selling\nSportz Duo CNG (CNG) 7.72 Lakh*"
+    ],
+    "IONIQ 5": [
+      "Top Selling\nLong Range RWD (Electric) 46.30 Lakh*"
+    ],
+    "Prime HB": [
+      "CNG (CNG) 6 Lakh*"
+    ],
+    "Prime SD": [
+      "CNG (CNG) 6.90 Lakh*"
+    ],
+    "Tucson": [
+      "Platinum AT (Petrol) 27.32 Lakh*",
+      "Platinum AT BSVI (Petrol) 28.63 Lakh*",
+      "Platinum Diesel AT (Diesel) 29.54 Lakh*",
+      "Signature AT DT (Petrol) 29.79 Lakh*",
+      "Signature AT BSVI (Petrol) 31.10 Lakh*",
+      "Platinum Diesel AT BSVI (Diesel) 31.13 Lakh*",
+      "Signature AT DT BSVI (Petrol) 31.25 Lakh*",
+      "Signature Diesel AT (Diesel) 32.06 Lakh*",
+      "Signature AT (Petrol) 32.06 Lakh*",
+      "Signature Diesel AT DT (Diesel) 32.20 Lakh*",
+      "Signature Diesel 4WD AT (Diesel) 33.50 Lakh*",
+      "Signature Diesel 4WD AT DT (Diesel) 33.64 Lakh*",
+      "Signature Diesel AT BSVI (Diesel) 33.80 Lakh*",
+      "Signature Diesel AT DT BSVI (Diesel) 33.95 Lakh*",
+      "Signature Diesel 4WD AT BSVI (Diesel) 35.31 Lakh*",
+      "Signature Diesel 4WD AT DT BSVI (Diesel) 35.46 Lakh*"
+    ],
+    "Venue": [
+      "HX 2 Diesel (Diesel) 9.70 Lakh*",
+      "HX 5 Diesel (Diesel) 10.64 Lakh*",
+      "HX 5 Diesel AT (Diesel) 11.58 Lakh*",
+      "HX 7 Diesel (Diesel) 12.51 Lakh*",
+      "HX 7 Diesel Dual Tone (Diesel) 12.69 Lakh*",
+      "HX 10 Diesel AT (Diesel) 15.51 Lakh*",
+      "HX 10 Diesel AT Dual Tone (Diesel) 15.69 Lakh*",
+      "HX 2 (Petrol) 7.90 Lakh*",
+      "HX 2 Turbo (Petrol) 8.80 Lakh*",
+      "HX 4 (Petrol) 8.80 Lakh*",
+      "HX 5 (Petrol) 9.15 Lakh*",
+      "HX 5 Turbo (Petrol) 9.74 Lakh*",
+      "Recently Launched\nHX 5 Plus (Petrol) 10 Lakh*",
+      "HX 6 (Petrol) 10.43 Lakh*",
+      "HX 6 Dual Tone (Petrol) 10.61 Lakh*",
+      "HX 5 Turbo DCT (Petrol) 10.67 Lakh*",
+      "HX 6T (Petrol) 10.70 Lakh*",
+      "HX 6T Dual Tone (Petrol) 10.88 Lakh*",
+      "HX 8 Turbo (Petrol) 11.81 Lakh*",
+      "HX 6 Turbo DCT (Petrol) 11.98 Lakh*",
+      "HX 8 Turbo Dual Tone (Petrol) 11.99 Lakh*",
+      "HX 6 Turbo DCT DT (Petrol) 12.16 Lakh*",
+      "HX 8 Turbo DCT (Petrol) 12.85 Lakh*",
+      "HX 8 Turbo DCT Dual Tone (Petrol) 13.03 Lakh*",
+      "HX 10 Turbo DCT (Petrol) 14.56 Lakh*",
+      "HX 10 Turbo DCT Dual Tone (Petrol) 14.74 Lakh*"
+    ],
+    "Venue 2022-2025": [
+      "E (Petrol) 7.26 Lakh*",
+      "E Plus (Petrol) 7.61 Lakh*",
+      "E Opt (Petrol) 7.72 Lakh*",
+      "E BSVI (Petrol) 7.77 Lakh*",
+      "S Plus (Petrol) 8.72 Lakh*",
+      "S BSVI (Petrol) 8.94 Lakh*",
+      "S Opt Plus (Petrol) 9.15 Lakh*",
+      "S Opt (Petrol) 9.15 Lakh*",
+      "Executive Turbo (Petrol) 9.15 Lakh*",
+      "S (Petrol) 9.28 Lakh*",
+      "S 2023-2025 (Petrol) 9.28 Lakh*",
+      "S Opt Knight (Petrol) 9.46 Lakh*",
+      "S Opt Plus Adventure (Petrol) 9.48 Lakh*",
+      "S Plus 2024-2025 (Petrol) 9.53 Lakh*",
+      "S Plus Diesel (Diesel) 9.73 Lakh*",
+      "S Opt BSVI (Petrol) 9.76 Lakh*",
+      "SX Executive (Petrol) 9.87 Lakh*",
+      "S Opt Turbo (Petrol) 9.92 Lakh*",
+      "S Opt 2023-2025 (Petrol) 10 Lakh*",
+      "SX (Petrol) 10.22 Lakh*",
+      "SX DT (Petrol) 10.33 Lakh*",
+      "SX Adventure (Petrol) 10.34 Lakh*",
+      "S Opt Knight 2023-2025 (Petrol) 10.35 Lakh*",
+      "S Opt Plus Adventure 2024-2025 (Petrol) 10.37 Lakh*",
+      "S Opt Turbo iMT (Petrol) 10.40 Lakh*",
+      "S Opt Turbo iMT BSVI (Petrol) 10.44 Lakh*",
+      "S Plus Diesel BSVI (Diesel) 10.46 Lakh*",
+      "SX Adventure DT (Petrol) 10.48 Lakh*",
+      "SX Knight (Petrol) 10.52 Lakh*",
+      "SX Knight DT (Petrol) 10.63 Lakh*",
+      "SX BSVI (Petrol) 10.93 Lakh*",
+      "S Opt Turbo DCT (Petrol) 10.93 Lakh*",
+      "SX DT BSVI (Petrol) 11.08 Lakh*",
+      "SX Diesel (Diesel) 11.22 Lakh*",
+      "SX DT Diesel (Diesel) 11.36 Lakh*",
+      "S Opt Turbo DCT BSVI (Petrol) 11.43 Lakh*",
+      "SX Opt Turbo (Petrol) 11.49 Lakh*",
+      "SX Knight Special Edition (Petrol) 11.50 Lakh*",
+      "SX Opt Turbo DT (Petrol) 11.60 Lakh*",
+      "SX Opt Knight Turbo (Petrol) 11.65 Lakh*",
+      "SX Opt Knight Turbo DT (Petrol) 11.79 Lakh*",
+      "SX Opt Diesel (Diesel) 12.05 Lakh*",
+      "SX Opt DT Diesel (Diesel) 12.18 Lakh*",
+      "SX Diesel BSVI (Diesel) 12.20 Lakh*",
+      "SX Opt Turbo DCT (Petrol) 12.21 Lakh*",
+      "SX Opt Knight Turbo DCT (Petrol) 12.31 Lakh*",
+      "SX Opt Turbo Adventure DCT (Petrol) 12.32 Lakh*",
+      "SX Opt Turbo DCT DT (Petrol) 12.32 Lakh*",
+      "SX DT Diesel BSVI (Diesel) 12.35 Lakh*",
+      "SX Opt Turbo iMT BSVI (Petrol) 12.35 Lakh*",
+      "SX Opt Knight Turbo DCT DT (Petrol) 12.41 Lakh*",
+      "SX Opt Turbo iMT (Petrol) 12.44 Lakh*",
+      "SX Opt Turbo Adventure DCT DT (Petrol) 12.46 Lakh*",
+      "SX Opt Turbo iMT DT BSVI (Petrol) 12.50 Lakh*",
+      "SX Opt Turbo iMT DT (Petrol) 12.59 Lakh*",
+      "SX Opt Diesel BSVI (Diesel) 12.99 Lakh*",
+      "SX Opt Turbo DCT BSVI (Petrol) 13.03 Lakh*",
+      "SX Opt DT Diesel BSVI (Diesel) 13.14 Lakh*",
+      "SX Opt Turbo DCT DT BSVI (Petrol) 13.18 Lakh*",
+      "SX Opt Turbo DCT Special Edition (Petrol) 13.45 Lakh*"
+    ],
+    "Venue N Line": [
+      "N6 (Petrol) 10.55 Lakh*",
+      "N6 Dual Tone (Petrol) 10.73 Lakh*",
+      "N6 DCT (Petrol) 11.45 Lakh*",
+      "N6 DCT Dual Tone (Petrol) 11.63 Lakh*",
+      "N10 DCT (Petrol) 15.30 Lakh*",
+      "N10 DCT Dual Tone (Petrol) 15.48 Lakh*"
+    ],
+    "Venue N Line 2021-2025": [
+      "N6 Turbo (Petrol) 11.11 Lakh*",
+      "N6 Turbo DT (Petrol) 11.25 Lakh*",
+      "N6 turbo DCT (Petrol) 11.84 Lakh*",
+      "N8 Turbo (Petrol) 11.95 Lakh*",
+      "N6 turbo DCT DT (Petrol) 11.98 Lakh*",
+      "N8 Turbo DT (Petrol) 12.08 Lakh*",
+      "N8 turbo DCT (Petrol) 12.67 Lakh*",
+      "N6 turbo DCT BSVI (Petrol) 12.67 Lakh*",
+      "N8 turbo DCT DT (Petrol) 12.81 Lakh*",
+      "N6 turbo DCT DT BSVI (Petrol) 12.82 Lakh*",
+      "N8 turbo DCT BSVI (Petrol) 13.66 Lakh*",
+      "N8 turbo DCT DT BSVI (Petrol) 13.81 Lakh*"
+    ],
+    "Verna": [
+      "EX (Petrol) 10.79 Lakh*",
+      "S (Petrol) 11.95 Lakh*",
+      "Top Selling\nSX (Petrol) 12.86 Lakh*",
+      "S iVT (Petrol) 13.15 Lakh*",
+      "SX Plus (Petrol) 13.47 Lakh*",
+      "SX IVT (Petrol) 14.06 Lakh*",
+      "SX Opt (Petrol) 14.51 Lakh*",
+      "SX Turbo (Petrol) 14.52 Lakh*",
+      "SX Turbo DT (Petrol) 14.52 Lakh*",
+      "SX Plus iVT (Petrol) 14.68 Lakh*",
+      "SX Turbo DCT (Petrol) 15.72 Lakh*",
+      "SX Turbo DCT DT (Petrol) 15.72 Lakh*",
+      "SX Opt Turbo (Petrol) 15.79 Lakh*",
+      "SX Opt Turbo DT (Petrol) 15.79 Lakh*",
+      "SX Opt IVT (Petrol) 15.98 Lakh*",
+      "SX Opt Turbo DCT (Petrol) 16.98 Lakh*",
+      "S Opt Turbo DCT (Petrol) 17.13 Lakh*",
+      "SX Opt Turbo DCT DT (Petrol) 17.13 Lakh*"
+    ],
+    "i20": [
+      "Magna Executive (Petrol) 6.87 Lakh*",
+      "Magna (Petrol) 7.12 Lakh*",
+      "Top Selling\nSportz (Petrol) 7.75 Lakh*",
+      "Sportz DT (Petrol) 7.84 Lakh*",
+      "Magna IVT (Petrol) 8.13 Lakh*",
+      "Sportz Opt (Petrol) 8.28 Lakh*",
+      "Sportz Opt Knight (Petrol) 8.37 Lakh*",
+      "Asta (Petrol) 8.62 Lakh*",
+      "Sportz IVT (Petrol) 8.76 Lakh*",
+      "Asta Opt (Petrol) 9.15 Lakh*",
+      "Sportz Opt IVT (Petrol) 9.20 Lakh*",
+      "Asta Opt DT (Petrol) 9.31 Lakh*",
+      "Asta Opt IVT (Petrol) 10.34 Lakh*",
+      "Asta Opt IVT DT (Petrol) 10.43 Lakh*",
+      "Asta Opt iVT Knight (Petrol) 10.44 Lakh*"
+    ],
+    "i20 N-Line": [
+      "N6 (Petrol) 9.21 Lakh*",
+      "N6 Dual Tone (Petrol) 9.32 Lakh*",
+      "N6 DCT (Petrol) 10.23 Lakh*",
+      "N6 DCT Dual Tone (Petrol) 10.37 Lakh*",
+      "N8 (Petrol) 10.53 Lakh*",
+      "N8 Dual Tone (Petrol) 10.66 Lakh*",
+      "Top Selling\nN8 DCT (Petrol) 11.53 Lakh*",
+      "N8 DCT Dual Tone (Petrol) 11.67 Lakh*"
+    ]
+  },
+  "Mahindra": {
+    "BE 6": [
+      "Pack One (Electric) 18.90 Lakh*",
+      "Pack One 7.2kw Charger (Electric) 19.40 Lakh*",
+      "Pack One 11.2kw Charger (Electric) 19.65 Lakh*",
+      "Pack One Above (Electric) 20.50 Lakh*",
+      "Pack One Above 7.2kw Charger (Electric) 21 Lakh*",
+      "Pack One Above 11.2kw Charger (Electric) 21.25 Lakh*",
+      "Pack Two (Electric) 21.90 Lakh*",
+      "Pack Two 7.2kw Charger (Electric) 22.40 Lakh*",
+      "Pack Two 11.2kw Charger (Electric) 22.65 Lakh*",
+      "Pack Two 79kwh (Electric) 23.50 Lakh*",
+      "Recently Launched\nFE2 (Electric) 23.69 Lakh*",
+      "Pack Two 79kwh 7.2kw Charger (Electric) 24 Lakh*",
+      "Pack Two 79kwh 11.2kw Charger (Electric) 24.25 Lakh*",
+      "Recently Launched\nFE3 (Electric) 24.49 Lakh*",
+      "Pack Three Select (Electric) 24.50 Lakh*",
+      "Pack Three Select 7.2kw Charger (Electric) 25 Lakh*",
+      "Pack Three Select 11.2kw Charger (Electric) 25.25 Lakh*",
+      "Pack Three (Electric) 26.90 Lakh*",
+      "Pack Three 79kwh 7.2kw Charger (Electric) 27.40 Lakh*",
+      "Pack Three 79kwh 11.2kw Charger (Electric) 27.65 Lakh*"
+    ],
+    "Bolero": [
+      "B4 (Diesel) 7.99 Lakh*",
+      "B6 (Diesel) 8.69 Lakh*",
+      "Top Selling\nB6 Opt (Diesel) 9.09 Lakh*",
+      "B8 (Diesel) 9.69 Lakh*"
+    ],
+    "Bolero Camper": [
+      "2WD Diesel (Diesel) 9.70 Lakh*",
+      "VX Diesel (Diesel) 9.22 Lakh*",
+      "Top Selling\n4WD Diesel (Diesel) 9.98 Lakh*",
+      "ZX Diesel (Diesel) 10 Lakh*"
+    ],
+    "Bolero Neo": [
+      "N4 (Diesel) 8.49 Lakh*",
+      "N8 (Diesel) 9.29 Lakh*",
+      "Top Selling\nN10 R (Diesel) 9.79 Lakh*",
+      "N10 (Diesel) 9.97 Lakh*",
+      "N10 Opt (Diesel) 10.49 Lakh*",
+      "N11 (Diesel) 9.99 Lakh*"
+    ],
+    "Bolero Neo Plus": [
+      "Top Selling\nP4 (Diesel) 10.77 Lakh*",
+      "P10 (Diesel) 11.80 Lakh*"
+    ],
+    "Bolero Pik-Up": [
+      "1.3 T (Diesel) 9.63 Lakh*",
+      "1.3 T AC (Diesel) 9.86 Lakh*",
+      "1.3 T CBC MS (Diesel) 9.05 Lakh*",
+      "1.3 T MS (Diesel) 9.56 Lakh*",
+      "4WD (Diesel) 9.58 Lakh*"
+    ],
+    "Marazzo": [
+      "Top Selling\nM2 (Diesel) 14.06 Lakh*",
+      "M2 8Str (Diesel) 14.06 Lakh*",
+      "M4 Plus (Diesel) 15.28 Lakh*",
+      "M4 Plus 8Str (Diesel) 15.36 Lakh*",
+      "M6 Plus (Diesel) 16.30 Lakh*",
+      "M6 Plus 8Str (Diesel) 16.38 Lakh*"
+    ],
+    "Scorpio": [
+      "S (Diesel) 12.98 Lakh*",
+      "S 9 Seater (Diesel) 13.19 Lakh*",
+      "S 11 7CC (Diesel) 16.70 Lakh*",
+      "Top Selling\nS 11 (Diesel) 16.70 Lakh*"
+    ],
+    "Scorpio N": [
+      "Z2 Diesel E (Diesel) 13.67 Lakh*",
+      "Z4 Diesel E (Diesel) 15.29 Lakh*",
+      "Top Selling\nZ6 Diesel (Diesel) 16.28 Lakh*",
+      "Z4 Diesel AT (Diesel) 16.85 Lakh*",
+      "Z4 Diesel E 4x4 (Diesel) 17.31 Lakh*",
+      "Z8 Select Diesel (Diesel) 17.51 Lakh*",
+      "Z6 Diesel AT (Diesel) 17.84 Lakh*",
+      "Z8 Select Diesel AT (Diesel) 18.46 Lakh*",
+      "Z8 Diesel (Diesel) 18.56 Lakh*",
+      "Z8T Diesel (Diesel) 19.52 Lakh*",
+      "Z8 Carbon Edition Diesel (Diesel) 19.71 Lakh*",
+      "Z8 Diesel AT (Diesel) 20 Lakh*",
+      "Z8L Diesel (Diesel) 20.52 Lakh*",
+      "Z8L Carbon Edition Diesel (Diesel) 20.71 Lakh*",
+      "Z8L 6 Str Diesel (Diesel) 20.87 Lakh*",
+      "Z8T Diesel AT (Diesel) 20.93 Lakh*",
+      "Z8 Carbon Edition Diesel AT (Diesel) 21.12 Lakh*",
+      "Z8T Diesel 4x4 (Diesel) 21.51 Lakh*",
+      "Z8 Carbon Edition Diesel 4x4 (Diesel) 21.70 Lakh*",
+      "Z8L Diesel AT (Diesel) 21.93 Lakh*",
+      "Z8L Carbon Edition Diesel AT (Diesel) 22.12 Lakh*",
+      "Z8L 6 Str Diesel AT (Diesel) 22.15 Lakh*",
+      "Z8L Diesel 4x4 (Diesel) 22.51 Lakh*",
+      "Z8L Carbon Edition Diesel 4x4 (Diesel) 22.70 Lakh*",
+      "Z8T Diesel 4x4 AT (Diesel) 22.98 Lakh*",
+      "Z8 Carbon Edition Diesel AT 4x4 (Diesel) 23.17 Lakh*",
+      "Z8L Diesel 4x4 AT (Diesel) 23.98 Lakh*",
+      "Z8L Carbon Edition Diesel AT 4x4 (Diesel) 24.17 Lakh*",
+      "Z2 E (Petrol) 13.20 Lakh*",
+      "Z4 E (Petrol) 14.88 Lakh*",
+      "Z4 AT (Petrol) 16.41 Lakh*",
+      "Z8 Select (Petrol) 16.59 Lakh*",
+      "Z8 Select AT (Petrol) 17.98 Lakh*",
+      "Z8T (Petrol) 19.14 Lakh*",
+      "Z8 Carbon Edition (Petrol) 19.33 Lakh*",
+      "Z8L (Petrol) 20 Lakh*",
+      "Z8L Carbon Edition (Petrol) 20.33 Lakh*",
+      "Z8L 6 Str (Petrol) 20.38 Lakh*",
+      "Z8T AT (Petrol) 20.48 Lakh*",
+      "Z8 Carbon Edition AT (Petrol) 20.67 Lakh*",
+      "Z8L AT (Petrol) 21.49 Lakh*",
+      "Z8L 6 Str AT (Petrol) 21.66 Lakh*",
+      "Z8L Carbon Edition AT (Petrol) 21.67 Lakh*"
+    ],
+    "Thar": [
+      "AXT RWD Diesel (Diesel) 9.99 Lakh*",
+      "LXT RWD Diesel (Diesel) 12.19 Lakh*",
+      "Top Selling\nLXT 4WD Diesel (Diesel) 15.49 Lakh*",
+      "LXT 4WD Diesel AT (Diesel) 16.99 Lakh*",
+      "LXT RWD AT (Petrol) 13.99 Lakh*",
+      "LXT 4WD (Petrol) 14.69 Lakh*",
+      "LXT 4WD AT (Petrol) 16.25 Lakh*"
+    ],
+    "Thar ROXX": [
+      "MX1 RWD Diesel (Diesel) 13.48 Lakh*",
+      "MX3 RWD Diesel (Diesel) 15.36 Lakh*",
+      "AX3L RWD Diesel (Diesel) 16.31 Lakh*",
+      "MX5 RWD Diesel (Diesel) 16.31 Lakh*",
+      "MX3 RWD Diesel AT (Diesel) 16.78 Lakh*",
+      "MX5 RWD Diesel AT (Diesel) 17.72 Lakh*",
+      "AX5L RWD Diesel AT (Diesel) 18.19 Lakh*",
+      "MX5 4WD Diesel (Diesel) 18.29 Lakh*",
+      "AX7L RWD Diesel (Diesel) 18.66 Lakh*",
+      "AX7L RWD Diesel AT (Diesel) 20 Lakh*",
+      "AX5L 4WD Diesel AT (Diesel) 20.17 Lakh*",
+      "AX7L 4WD Diesel (Diesel) 20.65 Lakh*",
+      "AX7L 4WD Diesel AT (Diesel) 22.06 Lakh*",
+      "MX1 RWD (Petrol) 12.25 Lakh*",
+      "MX3 RWD AT (Petrol) 14.42 Lakh*",
+      "Top Selling\nMX5 RWD (Petrol) 15.75 Lakh*",
+      "MX5 RWD AT (Petrol) 17.16 Lakh*",
+      "AX7L RWD AT (Petrol) 19.51 Lakh*"
+    ],
+    "XEV 9S": [
+      "Pack One Above 59kWh (Electric) 19.95 Lakh*",
+      "Pack One Above 79kWh (Electric) 21.95 Lakh*",
+      "Pack Two Above 70kWh (Electric) 24.45 Lakh*",
+      "Pack Two Above 79kWh (Electric) 25.45 Lakh*",
+      "Pack Three 79kWh (Electric) 27.35 Lakh*",
+      "Pack Three Above 79kWh (Electric) 29.45 Lakh*"
+    ],
+    "XEV 9e": [
+      "Pack One (Electric) 21.90 Lakh*",
+      "Pack One 7.2kw Charger (Electric) 22.40 Lakh*",
+      "Pack One 11.2kw Charger (Electric) 22.65 Lakh*",
+      "Pack Two (Electric) 24.90 Lakh*",
+      "Pack Two 7.2kw Charger (Electric) 25.40 Lakh*",
+      "Pack Two 11.2kw Charger (Electric) 25.65 Lakh*",
+      "Pack Two 79kWh (Electric) 26.50 Lakh*",
+      "Pack Two 79kwh 7.2kw Charger (Electric) 27 Lakh*",
+      "Pack Two 79kwh 11.2kw Charger (Electric) 27.25 Lakh*",
+      "Pack Three Select (Electric) 27.90 Lakh*",
+      "Pack Three Select 7.2kw Charger (Electric) 28.40 Lakh*",
+      "Pack Three Select 11.2kw Charger (Electric) 28.65 Lakh*",
+      "Pack Three (Electric) 30.50 Lakh*",
+      "Pack Three 7.2kw Charger (Electric) 31 Lakh*",
+      "Pack Three 11.2kw Charger (Electric) 31.25 Lakh*"
+    ],
+    "XUV 3XO": [
+      "MX2 diesel (Diesel) 8.95 Lakh*",
+      "MX2 Pro Diesel (Diesel) 9.53 Lakh*",
+      "MX3 Diesel (Diesel) 9.85 Lakh*",
+      "MX3 Pro Diesel (Diesel) 10.36 Lakh*",
+      "MX3 Diesel AMT (Diesel) 10.71 Lakh*",
+      "AX5 Diesel (Diesel) 10.92 Lakh*",
+      "AX5 Diesel AMT (Diesel) 11.64 Lakh*",
+      "AX7 Diesel (Diesel) 12.44 Lakh*",
+      "AX7 Diesel AMT (Diesel) 13.17 Lakh*",
+      "AX7 L Diesel (Diesel) 13.43 Lakh*",
+      "MX1 (Petrol) 7.28 Lakh*",
+      "REVX M (Petrol) 8.15 Lakh*",
+      "REVX M (O) (Petrol) 8.61 Lakh*",
+      "MX2 Pro (Petrol) 8.70 Lakh*",
+      "MX3 (Petrol) 8.88 Lakh*",
+      "MX3 Pro (Petrol) 9.11 Lakh*",
+      "MX2 Pro AT (Petrol) 9.61 Lakh*",
+      "Top Selling\nAX5 (Petrol) 10 Lakh*",
+      "MX3 AT (Petrol) 10.39 Lakh*",
+      "MX3 Pro AT (Petrol) 10.66 Lakh*",
+      "REVX A Turbo (Petrol) 10.75 Lakh*",
+      "AX5 AT (Petrol) 11.38 Lakh*",
+      "AX5 L Turbo (Petrol) 11.50 Lakh*",
+      "AX7 Turbo (Petrol) 11.66 Lakh*",
+      "REVX A Turbo AT (Petrol) 11.84 Lakh*",
+      "AX5 L Turbo AT (Petrol) 12.71 Lakh*",
+      "AX7 L Turbo (Petrol) 12.75 Lakh*",
+      "AX7 Turbo AT (Petrol) 12.75 Lakh*",
+      "AX7 L Turbo AT (Petrol) 14.40 Lakh*"
+    ],
+    "XUV 3XO EV": [
+      "AX5 (Electric) 13.89 Lakh*",
+      "AX7L (Electric) 14.96 Lakh*"
+    ],
+    "XUV 7XO": [
+      "AX Diesel (Diesel) 14.96 Lakh*",
+      "AX3 Diesel (Diesel) 16.49 Lakh*",
+      "AX3 Diesel AT (Diesel) 17.94 Lakh*",
+      "AX5 Diesel (Diesel) 17.99 Lakh*",
+      "AX7 Diesel (Diesel) 18.95 Lakh*",
+      "AX5 Diesel AT (Diesel) 19.44 Lakh*",
+      "AX7 Diesel AT (Diesel) 20.40 Lakh*",
+      "AX7T Diesel (Diesel) 20.99 Lakh*",
+      "AX7T 6Str Diesel (Diesel) 21.39 Lakh*",
+      "AX7T Diesel AT (Diesel) 22.44 Lakh*",
+      "AX7L Diesel (Diesel) 22.47 Lakh*",
+      "AX7T 6Str Diesel AT (Diesel) 22.84 Lakh*",
+      "AX7T Diesel AWD AT (Diesel) 23.44 Lakh*",
+      "AX7L 6Str Diesel AT (Diesel) 24.11 Lakh*",
+      "AX7L Diesel AWD AT (Diesel) 24.92 Lakh*",
+      "AX (Petrol) 13.66 Lakh*",
+      "AX3 (Petrol) 16.02 Lakh*",
+      "AX3 AT (Petrol) 17.47 Lakh*",
+      "AX5 (Petrol) 17.52 Lakh*",
+      "AX7 (Petrol) 18.48 Lakh*",
+      "AX5 AT (Petrol) 18.97 Lakh*",
+      "AX7 AT (Petrol) 19.93 Lakh*",
+      "AX7T AT (Petrol) 21.97 Lakh*",
+      "AX7T 6Str AT (Petrol) 22.16 Lakh*",
+      "AX7L AT (Petrol) 23.45 Lakh*",
+      "AX7L 6Str AT (Petrol) 23.64 Lakh*"
+    ],
+    "XUV400 EV": [
+      "EC Pro 345 kWh (Electric) 15.49 Lakh*",
+      "EL Pro 345 kWh (Electric) 16.74 Lakh*",
+      "EL Pro 394 kWh (Electric) 17.49 Lakh*",
+      "EL Pro DT 345 kWh (Electric) 16.94 Lakh*",
+      "EL Pro DT 394 kWh (Electric) 17.69 Lakh*"
+    ],
+    "XUV700": [
+      "MX 7Str Diesel (Diesel) 14.13 Lakh*",
+      "MX E 7Str Diesel (Diesel) 14.60 Lakh*",
+      "AX5 7 Str Diesel (Diesel) 17.95 Lakh*",
+      "AX5 S 7 Str Diesel (Diesel) 16.72 Lakh*",
+      "AX5 7 Str Diesel AT (Diesel) 19.46 Lakh*",
+      "AX5 S 7 Str Diesel AT (Diesel) 18.14 Lakh*",
+      "AX7 6 Str Diesel (Diesel) 19.03 Lakh*",
+      "AX7 7Str Diesel (Diesel) 18.84 Lakh*",
+      "AX7 Ebony Edition 6Str Diesel (Diesel) 19.17 Lakh*",
+      "AX7 Ebony Edition 7Str Diesel (Diesel) 18.99 Lakh*",
+      "AX7 6 Str Diesel AT (Diesel) 20.64 Lakh*",
+      "AX7 7Str Diesel AT (Diesel) 20.45 Lakh*",
+      "AX7 Ebony Edition 6Str Diesel AT (Diesel) 20.78 Lakh*",
+      "AX7L 6Str Diesel (Diesel) 21.20 Lakh*",
+      "AX7L 7Str Diesel (Diesel) 20.97 Lakh*",
+      "AX7L Ebony Edition 6Str Diesel (Diesel) 21.34 Lakh*",
+      "AX7L Ebony Edition 7Str Diesel (Diesel) 21.11 Lakh*",
+      "AX7 7Str Diesel AT AWD (Diesel) 21.58 Lakh*",
+      "AX7 Ebony Edition 7Str Diesel AT AWD (Diesel) 21.72 Lakh*",
+      "AX7L 6Str Diesel AT (Diesel) 22.80 Lakh*",
+      "AX7L 7Str Diesel AT (Diesel) 22.62 Lakh*",
+      "AX7L Ebony Edition 6Str Diesel AT (Diesel) 22.95 Lakh*",
+      "AX7L Ebony Edition 7Str Diesel AT (Diesel) 22.76 Lakh*",
+      "AX7L 7Str Diesel AT AWD (Diesel) 23.57 Lakh*",
+      "AX7L Ebony Edition 7Str Diesel AT AWD (Diesel) 23.71 Lakh*",
+      "MX 7Str (Petrol) 13.66 Lakh*",
+      "MX E 7Str (Petrol) 14.13 Lakh*",
+      "AX5 7 Str (Petrol) 17.29 Lakh*",
+      "AX5 E 7 Str (Petrol) 17.76 Lakh*",
+      "AX5 S 7 Str (Petrol) 15.92 Lakh*",
+      "AX5 S E 7Str (Petrol) 16.39 Lakh*",
+      "AX5 7 Str AT (Petrol) 18.80 Lakh*",
+      "AX5 S 7 Str AT (Petrol) 17.57 Lakh*",
+      "AX7 6 Str (Petrol) 18.56 Lakh*",
+      "AX7 7Str (Petrol) 18.37 Lakh*",
+      "AX7 Ebony Edition 6Str (Petrol) 18.70 Lakh*",
+      "AX7 Ebony Edition 7Str (Petrol) 18.51 Lakh*",
+      "AX7 6Str AT (Petrol) 19.98 Lakh*",
+      "AX7 7Str AT (Petrol) 19.79 Lakh*",
+      "AX7 Ebony Edition 6Str AT (Petrol) 20.12 Lakh*",
+      "AX7 Ebony Edition 7Str AT (Petrol) 19.93 Lakh*",
+      "AX7L 6Str AT (Petrol) 22.05 Lakh*",
+      "AX7L 7Str AT (Petrol) 21.86 Lakh*",
+      "AX7L Ebony Edition 6Str AT (Petrol) 22.19 Lakh*",
+      "AX7L Ebony Edition 7Str AT (Petrol) 22 Lakh*"
+    ]
+  },
+  "Honda": {
+    "Amaze": [
+      "V (Petrol) 7.48 Lakh*",
+      "VX (Petrol) 8.48 Lakh*",
+      "V CVT (Petrol) 8.62 Lakh*",
+      "VX CVT (Petrol) 9.22 Lakh*",
+      "ZX (Petrol) 9.22 Lakh*",
+      "ZX CVT (Petrol) 10 Lakh*"
+    ],
+    "Amaze 2nd Gen": [
+      "S (Petrol) 5.99 Lakh*",
+      "S CVT (Petrol) 7.80 Lakh*"
+    ],
+    "City": [
+      "SV (Petrol) 11.95 Lakh*",
+      "V (Petrol) 12.70 Lakh*",
+      "Top Selling\nVX (Petrol) 13.73 Lakh*",
+      "V CVT (Petrol) 13.90 Lakh*",
+      "Sport (Petrol) 14.38 Lakh*",
+      "ZX (Petrol) 14.87 Lakh*",
+      "VX CVT (Petrol) 14.94 Lakh*",
+      "ZX CVT (Petrol) 16.07 Lakh*"
+    ],
+    "City Hybrid": [
+      "Top Selling\nZX CVT (Petrol) 20 Lakh*"
+    ],
+    "Elevate": [
+      "SV (Petrol) 11.60 Lakh*",
+      "V (Petrol) 12.06 Lakh*",
+      "V CVT (Petrol) 13.22 Lakh*",
+      "VX (Petrol) 13.75 Lakh*",
+      "VX CVT (Petrol) 14.91 Lakh*",
+      "ZX (Petrol) 14.98 Lakh*",
+      "ZX Black Edition (Petrol) 15.07 Lakh*",
+      "ADV Edition (Petrol) 15.29 Lakh*",
+      "ADV Edition Dual Tone (Petrol) 15.49 Lakh*",
+      "ZX CVT (Petrol) 16.16 Lakh*",
+      "ZX Black Edition CVT (Petrol) 16.25 Lakh*",
+      "ADV Edition CVT (Petrol) 16.47 Lakh*",
+      "ADV Edition CVT Dual Tone (Petrol) 16.67 Lakh*"
+    ]
+  },
+  "MG": {
+    "Astor": [
+      "100 Year Limited Edition (Petrol) 14.96 Lakh*",
+      "100 Year Limited Edition CVT (Petrol) 16.24 Lakh*",
+      "Savvy Pro CVT (Petrol) 15.16 Lakh*",
+      "Savvy Pro Sangria CVT (Petrol) 15.16 Lakh*",
+      "Select (Petrol) 12.26 Lakh*",
+      "Select CVT (Petrol) 13.42 Lakh*",
+      "Sharp Pro (Petrol) 13.23 Lakh*",
+      "Sharp Pro CVT (Petrol) 14.38 Lakh*",
+      "Top Selling\nShine (Petrol) 11.20 Lakh*",
+      "Sprint (Petrol) 9.65 Lakh*"
+    ],
+    "Comet EV": [
+      "Executive (Electric) 7.50 Lakh*",
+      "Exclusive FC (Electric) 7.60 Lakh*",
+      "Blackstorm Edition (Electric) 7.63 Lakh*",
+      "Excite (Electric) 8.57 Lakh*",
+      "Top Selling\nExcite FC (Electric) 8.97 Lakh*",
+      "Exclusive (Electric) 9.56 Lakh*"
+    ],
+    "Cyberster": [
+      "GT (Electric) 75 Lakh*"
+    ],
+    "Gloster": [
+      "Sharp 4x2 7Str (Diesel) 38.33 Lakh*",
+      "Savvy 4x2 6Str (Diesel) 39.80 Lakh*",
+      "Savvy 4x2 7Str (Diesel) 39.80 Lakh*",
+      "Black Storm 4x2 6Str (Diesel) 40.46 Lakh*",
+      "Black Storm 4x2 7Str (Diesel) 40.46 Lakh*",
+      "Savvy 4x4 6Str (Diesel) 42.49 Lakh*",
+      "Savvy 4x4 7Str (Diesel) 42.49 Lakh*",
+      "Top Selling\nBlack Storm 4x4 6Str (Diesel) 43.16 Lakh*",
+      "Black Storm 4x4 7Str (Diesel) 43.16 Lakh*"
+    ],
+    "Hector": [
+      "Style 5Str (Petrol) 11.99 Lakh*",
+      "Top Selling\nSelect Pro 5Str (Petrol) 13.99 Lakh*",
+      "Smart Pro 5Str (Petrol) 14.99 Lakh*",
+      "Smart Pro 5Str CVT (Petrol) 16.29 Lakh*",
+      "Sharp Pro 5Str (Petrol) 16.79 Lakh*",
+      "Sharp Pro 5Str CVT (Petrol) 18.09 Lakh*",
+      "Savvy Pro 5Str CVT (Petrol) 18.99 Lakh*"
+    ],
+    "Hector Plus": [
+      "Top Selling\nSavvy Pro 7Str CVT (Petrol) 19.49 Lakh*",
+      "Sharp Pro 7Str (Petrol) 17.29 Lakh*",
+      "Sharp Pro 7Str CVT (Petrol) 18.59 Lakh*"
+    ],
+    "M9": [
+      "Presidential Limo (Electric) 69.90 Lakh*"
+    ],
+    "Windsor EV": [
+      "Inspire Edition (Electric) 12.65 Lakh*",
+      "Excite (Electric) 14 Lakh*",
+      "Exclusive (Electric) 15.15 Lakh*",
+      "Top Selling\nEssence (Electric) 16.30 Lakh*",
+      "Exclusive Pro (Electric) 17.25 Lakh*",
+      "Essence Pro (Electric) 18.39 Lakh*"
+    ],
+    "ZS EV": [
+      "Excite Pro (Electric) 18.50 Lakh*",
+      "Executive (Electric) 17.99 Lakh*",
+      "100 Year Limited Edition (Electric) 19.50 Lakh*",
+      "Essence (Electric) 20.50 Lakh*",
+      "Essence DT (Electric) 20.50 Lakh*",
+      "Exclusive Plus (Electric) 19.50 Lakh*",
+      "Top Selling\nExclusive Plus DT (Electric) 19.50 Lakh*"
+    ]
+  },
+  "Skoda": {
+    "Elroq": [],
+    "Kodiaq": [
+      "Lounge (Petrol) 39.99 Lakh*",
+      "Sportline (Petrol) 43.76 Lakh*",
+      "Selection L&K (Petrol) 45.96 Lakh*"
+    ],
+    "Kushaq": [
+      "1.0L Classic (Petrol) 10.66 Lakh*",
+      "1.0L Monte Carlo (Petrol) 15.88 Lakh*",
+      "1.0L Prestige (Petrol) 15.88 Lakh*",
+      "1.0L Signature (Petrol) 14.44 Lakh*",
+      "1.0L Sportline (Petrol) 14.59 Lakh*",
+      "Top Selling\n1.0L Monte Carlo AT (Petrol) 16.95 Lakh*",
+      "1.0L Onyx AT (Petrol) 13.19 Lakh*",
+      "1.0L Prestige AT (Petrol) 16.95 Lakh*",
+      "1.0L Signature AT (Petrol) 15.49 Lakh*",
+      "1.0L Sportline AT (Petrol) 15.64 Lakh*",
+      "1.5L Monte Carlo DSG (Petrol) 18.49 Lakh*",
+      "1.5L Prestige DSG (Petrol) 18.49 Lakh*",
+      "1.5L Sportline DSG (Petrol) 17.19 Lakh*"
+    ],
+    "Kylaq": [
+      "Top Selling\nClassic (Petrol) 7.59 Lakh*",
+      "Signature (Petrol) 9.10 Lakh*",
+      "Signature AT (Petrol) 10.10 Lakh*",
+      "Signature Plus (Petrol) 10.44 Lakh*",
+      "Signature Plus AT (Petrol) 11.44 Lakh*",
+      "Prestige (Petrol) 11.99 Lakh*",
+      "Prestige AT (Petrol) 12.99 Lakh*"
+    ],
+    "Octavia RS": [
+      "STD (Petrol) 49.99 Lakh*"
+    ],
+    "Slavia": [
+      "1.0L Classic (Petrol) 10 Lakh*",
+      "1.0L Monte Carlo (Petrol) 15 Lakh*",
+      "1.0L Prestige (Petrol) 15 Lakh*",
+      "Top Selling\n1.0L Signature (Petrol) 13.28 Lakh*",
+      "1.0L Sportline (Petrol) 13.49 Lakh*",
+      "1.0L Monte Carlo AT (Petrol) 16.49 Lakh*",
+      "1.0L Prestige AT (Petrol) 16.43 Lakh*",
+      "1.0L Signature AT (Petrol) 14.34 Lakh*",
+      "1.0L Sportline AT (Petrol) 14.55 Lakh*",
+      "1.5L Monte Carlo DSG (Petrol) 17.99 Lakh*",
+      "1.5L Prestige DSG (Petrol) 17.93 Lakh*",
+      "1.5L Sportline DSG (Petrol) 16.19 Lakh*"
+    ]
+  },
+  "Jeep": {
+    "Compass": [
+      "2.0 Sport (Diesel) 17.93 Lakh*",
+      "2.0 Longitude Opt (Diesel) 25.25 Lakh*",
+      "2.0 Longitude Opt AT (Diesel) 23.18 Lakh*",
+      "Trail Edition (Diesel) 23.66 Lakh*",
+      "Trail Edition AT (Diesel) 25.52 Lakh*",
+      "2.0 Limited Opt (Diesel) 24.58 Lakh*",
+      "Top Selling\n2.0 Model S Opt (Diesel) 26.45 Lakh*",
+      "2.0 Model S Opt FWD AT (Diesel) 28.51 Lakh*",
+      "Track Edition (Diesel) 26.70 Lakh*",
+      "Track Edition AT (Diesel) 28.76 Lakh*",
+      "2.0 Limited Opt FWD AT (Diesel) 26.65 Lakh*",
+      "2.0 Model S Opt 4x4 AT (Diesel) 30.45 Lakh*",
+      "Track Edition AT 4X4 (Diesel) 30.70 Lakh*"
+    ],
+    "Grand Cherokee": [
+      "Top Selling\nLimited Opt (Petrol) 63 Lakh*"
+    ],
+    "Meridian": [
+      "Longitude 4x2 (Diesel) 23.33 Lakh*",
+      "Longitude Plus 4x2 (Diesel) 25.95 Lakh*",
+      "Top Selling\nLongitude 4x2 AT (Diesel) 27.18 Lakh*",
+      "Limited Opt 4x2 (Diesel) 30.01 Lakh*",
+      "Longitude Plus 4x2 AT (Diesel) 29.04 Lakh*",
+      "Trail Edition (Diesel) 29.12 Lakh*",
+      "Limited Opt 4x2 AT (Diesel) 33.75 Lakh*",
+      "Trail Edition AT (Diesel) 32.86 Lakh*",
+      "Limited Opt 4x4 AT (Diesel) 35.61 Lakh*",
+      "Overland 4x2 AT (Diesel) 35.61 Lakh*",
+      "Overland 4x4 AT (Diesel) 37.48 Lakh*"
+    ],
+    "Wrangler": [
+      "Unlimited (Petrol) 64.58 Lakh*",
+      "Top Selling\nRubicon (Petrol) 68.31 Lakh*"
+    ]
+  },
+  "Renault": {
+    "KWID": [
+      "Authentic (Petrol) 4.30 Lakh*",
+      "Evolution (Petrol) 4.67 Lakh*",
+      "Evolution AMT (Petrol) 5 Lakh*",
+      "Top Selling\nAnniversary Edition (Petrol) 5.14 Lakh*",
+      "Techno (Petrol) 5 Lakh*",
+      "1.0 CLIMBER (Petrol) 5.47 Lakh*",
+      "1.0 CLIMBER DT (Petrol) 5.58 Lakh*",
+      "Anniversary Edition AMT (Petrol) 5.63 Lakh*",
+      "Techno AMT (Petrol) 5.49 Lakh*",
+      "1.0 CLIMBER AMT (Petrol) 5.88 Lakh*",
+      "1.0 CLIMBER DT AMT (Petrol) 5.99 Lakh*"
+    ],
+    "Kiger": [
+      "Authentic (Petrol) 5.76 Lakh*",
+      "Evolution (Petrol) 6.50 Lakh*",
+      "Evolution AMT (Petrol) 6.95 Lakh*",
+      "Techno (Petrol) 7.50 Lakh*",
+      "Techno DT (Petrol) 7.71 Lakh*",
+      "Techno AMT (Petrol) 7.96 Lakh*",
+      "Techno DT AMT (Petrol) 8.17 Lakh*",
+      "Emotion (Petrol) 8.37 Lakh*",
+      "Emotion DT (Petrol) 8.58 Lakh*",
+      "Emotion Turbo (Petrol) 9.15 Lakh*",
+      "Emotion Turbo DT (Petrol) 9.15 Lakh*",
+      "Techno Turbo CVT (Petrol) 9.15 Lakh*",
+      "Techno Turbo DT CVT (Petrol) 9.15 Lakh*",
+      "Emotion Turbo CVT (Petrol) 10.34 Lakh*",
+      "Emotion Turbo DT CVT (Petrol) 10.34 Lakh*"
+    ],
+    "Triber": [
+      "Authentic (Petrol) 5.76 Lakh*",
+      "Evolution (Petrol) 6.63 Lakh*",
+      "Techno (Petrol) 7.32 Lakh*",
+      "Emotion (Petrol) 7.91 Lakh*",
+      "Emotion Dual Tone (Petrol) 8.12 Lakh*",
+      "Emotion AMT (Petrol) 8.39 Lakh*",
+      "Emotion AMT Dual Tone (Petrol) 8.60 Lakh*"
+    ]
+  },
+  "Nissan": {
+    "Gravite": [],
+    "Magnite": [
+      "Visia (Petrol) 5.62 Lakh*",
+      "Visia Plus (Petrol) 6.07 Lakh*",
+      "Visia AMT (Petrol) 6.17 Lakh*",
+      "Acenta (Petrol) 6.67 Lakh*",
+      "Acenta AMT (Petrol) 7.17 Lakh*",
+      "N Connecta (Petrol) 7.29 Lakh*",
+      "KURO Edition (Petrol) 7.60 Lakh*",
+      "N Connecta AMT (Petrol) 7.79 Lakh*",
+      "KURO Edition AMT (Petrol) 8.10 Lakh*",
+      "Top Selling\nTekna (Petrol) 8.16 Lakh*",
+      "Tekna Plus (Petrol) 8.48 Lakh*",
+      "N Connecta Turbo (Petrol) 8.58 Lakh*",
+      "Tekna AMT (Petrol) 8.66 Lakh*",
+      "KURO Edition Turbo (Petrol) 8.89 Lakh*",
+      "Tekna Plus AMT (Petrol) 8.98 Lakh*",
+      "Acenta Turbo CVT (Petrol) 9.14 Lakh*",
+      "Tekna Turbo (Petrol) 9.31 Lakh*",
+      "N Connecta Turbo CVT (Petrol) 9.63 Lakh*",
+      "Tekna Plus Turbo (Petrol) 9.64 Lakh*",
+      "KURO Edition Turbo CVT (Petrol) 9.94 Lakh*",
+      "Tekna Turbo CVT (Petrol) 10.43 Lakh*",
+      "Tekna Plus Turbo CVT (Petrol) 10.76 Lakh*",
+      "Visia CNG (CNG) 6.34 Lakh*",
+      "Visia Plus CNG (CNG) 6.79 Lakh*",
+      "Acenta CNG (CNG) 7.39 Lakh*",
+      "N Connecta CNG (CNG) 8.01 Lakh*",
+      "Top Selling\nTekna CNG (CNG) 8.88 Lakh*",
+      "Tekna Plus CNG (CNG) 9.20 Lakh*"
+    ],
+    "X-Trail": [
+      "Top Selling\nSTD (Petrol) 48.20 Lakh*"
+    ]
+  },
+  "Volkswagen": {
+    "Golf GTI": [
+      "2.0 TSI (Petrol) 50.91 Lakh*"
+    ],
+    "Taigun": [
+      "1.0 Comfortline (Petrol) 11.42 Lakh*",
+      "1.0 Highline (Petrol) 12.59 Lakh*",
+      "1.0 Highline AT (Petrol) 13.56 Lakh*",
+      "Top Selling\n1.0 Highline Plus (Petrol) 13.94 Lakh*",
+      "1.0 GT Line (Petrol) 14.33 Lakh*",
+      "1.0 Highline Plus AT (Petrol) 15 Lakh*",
+      "1.0 GT Line AT (Petrol) 15.39 Lakh*",
+      "1.0 Topline ES (Petrol) 16.04 Lakh*",
+      "1.5 GT Plus Sports (Petrol) 17.04 Lakh*",
+      "1.5 GT Plus Chrome ES (Petrol) 17.04 Lakh*",
+      "1.0 Topline AT ES (Petrol) 17.42 Lakh*",
+      "1.5 GT Plus Chrome DSG ES (Petrol) 18.95 Lakh*",
+      "1.5 GT Plus Sports DSG (Petrol) 19.19 Lakh*"
+    ],
+    "Tayron R-Line": [],
+    "Tiguan R-Line": [
+      "2.0L TSI (Petrol) 45.73 Lakh*"
+    ],
+    "Virtus": [
+      "Comfortline (Petrol) 10.50 Lakh*",
+      "GT Line (Petrol) 14.10 Lakh*",
+      "GT Line AT (Petrol) 15 Lakh*",
+      "Top Selling\nGT Plus DSG ES (Petrol) 18.80 Lakh*",
+      "GT Plus ES (Petrol) 17.09 Lakh*",
+      "GT Plus Sport (Petrol) 17.33 Lakh*",
+      "GT Plus Sport DSG (Petrol) 19 Lakh*",
+      "Highline (Petrol) 13.46 Lakh*",
+      "Highline AT (Petrol) 14.66 Lakh*",
+      "Highline Plus (Petrol) 13.86 Lakh*",
+      "Highline Plus AT (Petrol) 14.91 Lakh*",
+      "Topline AT ES (Petrol) 16.30 Lakh*",
+      "Topline ES (Petrol) 15.11 Lakh*"
+    ]
+  },
+  "Citroen": {
+    "Aircross": [
+      "X You (Petrol) 8.29 Lakh*",
+      "X Plus (Petrol) 9.77 Lakh*",
+      "X Turbo Plus 7 Seater (Petrol) 11.37 Lakh*",
+      "X Turbo Max 7 Seater (Petrol) 12.35 Lakh*",
+      "X Turbo Max 7 Seater DT (Petrol) 12.55 Lakh*",
+      "X Turbo Max AT 7 Seater (Petrol) 13.49 Lakh*",
+      "X Turbo Max AT 7 Seater DT (Petrol) 13.69 Lakh*"
+    ],
+    "Basalt": [
+      "You (Petrol) 8.15 Lakh*",
+      "Plus (Petrol) 9.62 Lakh*",
+      "Top Selling\nPlus Turbo (Petrol) 11.02 Lakh*",
+      "Max Turbo X (Petrol) 11.88 Lakh*",
+      "Max Turbo X DT (Petrol) 12.09 Lakh*",
+      "Plus Turbo AT (Petrol) 12.27 Lakh*",
+      "Max Turbo X AT (Petrol) 12.89 Lakh*",
+      "Max Turbo X AT DT (Petrol) 13.11 Lakh*"
+    ],
+    "C3": [
+      "Live (Petrol) 4.95 Lakh*",
+      "Feel (Petrol) 5.85 Lakh*",
+      "Feel Optional (Petrol) 6.80 Lakh*",
+      "Top Selling\nX Shine (Petrol) 7.63 Lakh*",
+      "X Shine Dual Tone (Petrol) 7.78 Lakh*",
+      "Shine Dark Edition (Petrol) 8.38 Lakh*",
+      "X Shine Turbo (Petrol) 8.74 Lakh*",
+      "X Shine Turbo AT (Petrol) 9.45 Lakh*",
+      "Shine Turbo Dark Edition (Petrol) 9.58 Lakh*",
+      "Turbo Shine DT AT (Petrol) 10.15 Lakh*",
+      "Shine Turbo Dark Edition AT (Petrol) 10.19 Lakh*",
+      "Turbo Shine Sport Edition AT (Petrol) 10.21 Lakh*",
+      "Live CNG (CNG) 5.73 Lakh*",
+      "Feel Optional CNG (CNG) 7.58 Lakh*",
+      "Top Selling\nX Shine CNG (CNG) 8.16 Lakh*",
+      "X Shine Dual Tone CNG (CNG) 8.31 Lakh*",
+      "Feel CNG (CNG) 8.45 Lakh*",
+      "Shine Dark Edition CNG (CNG) 9.31 Lakh*"
+    ],
+    "C5 Aircross": [
+      "Top Selling\nShine (Diesel) 37.32 Lakh*",
+      "Shine Dual Tone (Diesel) 37.32 Lakh*"
+    ],
+    "eC3": [
+      "Feel (Electric) 12.90 Lakh*",
+      "Top Selling\nShine (Electric) 13.26 Lakh*",
+      "Shine DT (Electric) 13.41 Lakh*"
+    ]
+  },
+  "Mercedes-Benz": {
+    "A-Class Limousine": [
+      "A 200d (Diesel) 45.93 Lakh*",
+      "Top Selling\nA 200 (Petrol) 44.46 Lakh*"
+    ],
+    "AMG A 45 S": [
+      "Top Selling\n4MATIC Plus (Petrol) 94.80 Lakh*"
+    ],
+    "AMG C 63": [
+      "Top Selling\nS E Performance (Petrol) 1.91 Cr*"
+    ],
+    "AMG C43": [
+      "Top Selling\n4Matic (Petrol) 94.05 Lakh*"
+    ],
+    "AMG CLE 53": [
+      "4Matic (Petrol) 1.28 Cr*"
+    ],
+    "AMG E 53 Cabriolet": [
+      "Top Selling\n4MATIC Plus (Petrol) 1.30 Cr*"
+    ],
+    "AMG EQS": [
+      "Top Selling\n53 4Matic Plus (Electric) 2.45 Cr*"
+    ],
+    "AMG GLA 35": [
+      "4MATIC (Petrol) 58.50 Lakh*",
+      "4MATIC BSVI (Petrol) 63.50 Lakh*"
+    ],
+    "AMG GLC 43": [
+      "Top Selling\n4Matic (Petrol) 99.85 Lakh*"
+    ],
+    "AMG GLE 53": [
+      "Top Selling\nCoupe (Petrol) 1.88 Cr*"
+    ],
+    "AMG GT 4 Door Coupe": [
+      "Top Selling\n63 S E Performance (Petrol) 3.27 Cr*"
+    ],
+    "AMG GT Coupe": [
+      "63 4MATIC Plus (Petrol) 3.05 Cr*",
+      "63 Pro 4MATIC Plus (Petrol) 3.65 Cr*"
+    ],
+    "AMG S 63": [
+      "Top Selling\nE Performance (Petrol) 3.27 Cr*",
+      "E Performance Edition 1 (Petrol) 3.80 Cr*"
+    ],
+    "AMG SL": [
+      "Top Selling\n55 4Matic Plus Roadster (Petrol) 2.34 Cr*"
+    ],
+    "C-Class": [
+      "C 220d (Diesel) 58.65 Lakh*",
+      "Top Selling\nC 200 (Petrol) 58.90 Lakh*",
+      "C 300 (Petrol) 64.32 Lakh*"
+    ],
+    "CLE Cabriolet": [
+      "Top Selling\n300 4Matic AMG Line (Petrol) 1.11 Cr*"
+    ],
+    "E-Class": [
+      "E 220d (Diesel) 80.41 Lakh*",
+      "Top Selling\nE 200 (Petrol) 78.51 Lakh*",
+      "E 450 (Petrol) 91.66 Lakh*"
+    ],
+    "EQA": [
+      "Top Selling\n250 Plus (Electric) 67.20 Lakh*"
+    ],
+    "EQB": [
+      "250 Plus (Electric) 72.20 Lakh*",
+      "Top Selling\n350 4Matic (Electric) 78.90 Lakh*"
+    ],
+    "EQE SUV": [
+      "Top Selling\n500 4MATIC (Electric) 1.41 Cr*"
+    ],
+    "EQS": [
+      "Top Selling\n53 4Matic Plus (Electric) 2.45 Cr*"
+    ],
+    "EQS SUV": [
+      "450 4Matic (Electric) 1.33 Cr*",
+      "Top Selling\n580 4Matic (Electric) 1.48 Cr*"
+    ],
+    "G-Class": [
+      "Top Selling\n400d AMG Line (Diesel) 2.55 Cr*",
+      "400d Adventure Edition (Diesel) 2.55 Cr*",
+      "450d Mild Hybrid (Diesel) 2.90 Cr*",
+      "AMG G 63 (Petrol) 3.59 Cr*",
+      "AMG G 63 Collectors Edition (Petrol) 4.30 Cr*"
+    ],
+    "G-Class Electric": [
+      "Top Selling\nG 580 (Electric) 3.10 Cr*"
+    ],
+    "GLA": [
+      "4MATIC (Petrol) 58.50 Lakh*",
+      "4MATIC BSVI (Petrol) 63.50 Lakh*"
+    ],
+    "GLC": [
+      "Top Selling\n4Matic (Petrol) 99.85 Lakh*"
+    ],
+    "GLE": [
+      "Top Selling\nCoupe (Petrol) 1.88 Cr*"
+    ],
+    "GLS": [
+      "450d 4MATIC AMG Line (Diesel) 1.34 Cr*",
+      "450d 4matic (Diesel) 1.34 Cr*",
+      "Top Selling\n450 4MATIC AMG Line (Petrol) 1.32 Cr*",
+      "450 4matic (Petrol) 1.32 Cr*"
+    ],
+    "Maybach EQS SUV": [
+      "Top Selling\n680 (Electric) 2.28 Cr*",
+      "Night Series (Electric) 2.63 Cr*"
+    ],
+    "Maybach GLS": [
+      "Top Selling\n600 4MATIC (Petrol) 3.17 Cr*",
+      "600 Night Series (Petrol) 3.71 Cr*"
+    ],
+    "Maybach S-Class": [
+      "S580 (Petrol) 2.74 Cr*",
+      "Top Selling\nS680 (Petrol) 3.47 Cr*"
+    ],
+    "Maybach SL 680": [
+      "Monogram Series (Petrol) 4.12 Cr*"
+    ],
+    "S-Class": [
+      "S580 (Petrol) 2.74 Cr*",
+      "Top Selling\nS680 (Petrol) 3.47 Cr*"
+    ]
+  },
+  "Aston Martin": {
+    "DB12": [
+      "Top Selling\nCoupe (Petrol) 4.34 Cr*"
+    ],
+    "DBX": [
+      "V8 (Petrol) 3.82 Cr*",
+      "Top Selling\n707 (Petrol) 4.38 Cr*"
+    ],
+    "Vanquish": [
+      "V12 (Petrol) 8.37 Cr*"
+    ],
+    "Vantage": [
+      "Top Selling\nV8 (Petrol) 3.77 Cr*"
+    ]
+  },
+  "Audi": {
+    "A4": [
+      "Premium (Petrol) 46.25 Lakh*",
+      "Premium Plus (Petrol) 51.17 Lakh*",
+      "Top Selling\nSignature Edition (Petrol) 54 Lakh*",
+      "Technology (Petrol) 55.11 Lakh*"
+    ],
+    "A5": [],
+    "A6": [
+      "45 TFSI Premium Plus (Petrol) 63.74 Lakh*",
+      "Top Selling\n45 TFSI Technology (Petrol) 69.89 Lakh*"
+    ],
+    "Q3": [
+      "Top Selling\nPremium (Petrol) 43.07 Lakh*",
+      "Premium Plus (Petrol) 47.55 Lakh*",
+      "Technology (Petrol) 52.31 Lakh*",
+      "Signature Line (Petrol) 52.31 Lakh*",
+      "Bold Edition (Petrol) 52.98 Lakh*"
+    ],
+    "Q3 Sportback": [
+      "Bold Edition (Petrol) 52.98 Lakh*",
+      "Top Selling\n40TFSI Quattro (Petrol) 53.55 Lakh*",
+      "Signature Line (Petrol) 53.55 Lakh*"
+    ],
+    "Q5": [
+      "Top Selling\nPremium Plus (Petrol) 64.74 Lakh*",
+      "Bold Edition (Petrol) 69.86 Lakh*",
+      "Signature Line (Petrol) 69.86 Lakh*",
+      "Technology (Petrol) 69.86 Lakh*"
+    ],
+    "Q7": [
+      "Premium Plus (Petrol) 86.14 Lakh*",
+      "Bold Edition (Petrol) 93.15 Lakh*",
+      "Technology (Petrol) 95.03 Lakh*",
+      "Signature Edition (Petrol) 95.03 Lakh*"
+    ],
+    "Q8": [
+      "Top Selling\nQuattro (Petrol) 1.10 Cr*"
+    ],
+    "Q8 Sportback e-tron": [
+      "Top Selling\n50 Quattro (Electric) 1.19 Cr*",
+      "55 Quattro (Electric) 1.32 Cr*"
+    ],
+    "Q8 e-tron": [
+      "Top Selling\n50 Quattro (Electric) 1.15 Cr*",
+      "55 Quattro (Electric) 1.27 Cr*"
+    ],
+    "RS Q8": [
+      "Performance (Petrol) 2.32 Cr*"
+    ],
+    "RS e-tron GT": [
+      "Top Selling\nQuattro (Electric) 1.95 Cr*"
+    ],
+    "S5 Sportback": [
+      "3.0L TFSI (Petrol) 73.57 Lakh*",
+      "Top Selling\nPlatinum Edition (Petrol) 80.50 Lakh*"
+    ],
+    "e-tron GT": [
+      "Top Selling\nQuattro (Electric) 1.95 Cr*"
+    ]
+  },
+  "BMW": {
+    "2 Series Gran Coupe": [
+      "218 M Sport (Petrol) 45.30 Lakh*",
+      "218 M Sport Pro (Petrol) 47.20 Lakh*"
+    ],
+    "3 Series": [
+      "Top Selling\nM340i 50 Jahre Edition (Petrol) 72.85 Lakh*",
+      "M340i xDrive (Petrol) 73.95 Lakh*"
+    ],
+    "3 Series Long Wheelbase": [
+      "320Ld M Sport Pro (Diesel) 61.50 Lakh*",
+      "320Ld M Sport (Diesel) 61.80 Lakh*",
+      "Top Selling\n330Li M Sport (Petrol) 60.50 Lakh*",
+      "330Li M Sport 50 Jahre Edition (Petrol) 60.60 Lakh*"
+    ],
+    "5 Series": [
+      "Top Selling\n530Li (Petrol) 72.35 Lakh*"
+    ],
+    "7 Series": [
+      "740d M Sport (Diesel) 1.82 Cr*",
+      "Top Selling\n740i M Sport (Petrol) 1.79 Cr*"
+    ],
+    "M2": [
+      "Top Selling\nCoupe (Petrol) 1 Cr*",
+      "Coupe Manual (Petrol) 1 Cr*"
+    ],
+    "M4 CS": [
+      "Top Selling\nxDrive (Petrol) 1.79 Cr*"
+    ],
+    "M4 Competition": [
+      "Top Selling\nxDrive (Petrol) 1.52 Cr*"
+    ],
+    "M5": [
+      "Top Selling\nxDrive (Petrol) 2.01 Cr*"
+    ],
+    "M8 Coupe Competition": [
+      "Top Selling\n50 Jahre M Edition (Petrol) 2.38 Cr*"
+    ],
+    "X1": [
+      "sDrive18d M Sport (Diesel) 52.20 Lakh*",
+      "Top Selling\nsDrive18i M Sport (Petrol) 50.60 Lakh*"
+    ],
+    "X3": [
+      "xDrive 20d M Sport (Diesel) 73.10 Lakh*",
+      "xDrive 20 M Sport (Petrol) 71.20 Lakh*"
+    ],
+    "X5": [
+      "Top Selling\nxDrive30d xLine (Diesel) 95.50 Lakh*",
+      "xDrive30d M Sport (Diesel) 1.05 Cr*",
+      "xDrive40i xLine (Petrol) 93.70 Lakh*",
+      "xDrive40i M Sport (Petrol) 1.03 Cr*"
+    ],
+    "X7": [
+      "xDrive40d Design Pure Excellence (Diesel) 1.25 Cr*",
+      "Top Selling\nxDrive40d M Sport (Diesel) 1.29 Cr*",
+      "xDrive40i M Sport (Petrol) 1.25 Cr*",
+      "xDrive40i M Sport Signature (Petrol) 1.26 Cr*"
+    ],
+    "XM": [
+      "Top Selling\nxDrive (Petrol) 2.55 Cr*"
+    ],
+    "Z4": [
+      "Top Selling\nM40i (Petrol) 87.90 Lakh*",
+      "M40i Pure Impulse AT (Petrol) 91.70 Lakh*",
+      "M40i Pure Impulse (Petrol) 92.60 Lakh*"
+    ],
+    "i4": [
+      "eDrive35 M Sport (Electric) 72.50 Lakh*",
+      "Top Selling\neDrive40 M Sport (Electric) 77.50 Lakh*"
+    ],
+    "i5": [
+      "Top Selling\nM60 xDrive (Electric) 1.20 Cr*"
+    ],
+    "i7": [
+      "eDrive50 M Sport (Electric) 2.05 Cr*",
+      "Top Selling\nM70 xDrive (Electric) 2.58 Cr*"
+    ],
+    "iX": [
+      "Top Selling\nxDrive50 (Electric) 1.40 Cr*"
+    ],
+    "iX 2026": [],
+    "iX1": [
+      "Top Selling\nLWB (Electric) 49.90 Lakh*"
+    ]
+  },
+  "BYD": {
+    "Atto 3": [
+      "Dynamic (Electric) 24.99 Lakh*",
+      "Top Selling\nPremium (Electric) 29.85 Lakh*",
+      "Superior (Electric) 33.99 Lakh*"
+    ],
+    "Seal": [
+      "Dynamic Range (Electric) 41 Lakh*",
+      "Premium Range (Electric) 45.70 Lakh*",
+      "Top Selling\nPerformance (Electric) 53.15 Lakh*"
+    ],
+    "Sealion 7": [
+      "Premium (Electric) 48.90 Lakh*",
+      "Performance (Electric) 54.90 Lakh*"
+    ],
+    "eMAX 7": [
+      "Premium 6Str (Electric) 26.90 Lakh*",
+      "Top Selling\nPremium 7Str (Electric) 27.50 Lakh*",
+      "Superior 6Str (Electric) 29.30 Lakh*",
+      "Superior 7Str (Electric) 29.90 Lakh*"
+    ]
+  },
+  "Bajaj": {
+    "Qute": [
+      "Top Selling\nCNG (CNG) 3.61 Lakh*"
+    ]
+  },
+  "Bentley": {
+    "Bentayga": [
+      "Azure (Petrol) 6.37 Cr*",
+      "EWB (Petrol) 5.60 Cr*",
+      "EWB Azure FIRST EDITION (Petrol) 6.75 Cr*",
+      "Top Selling\nS (Petrol) 5.87 Cr*",
+      "V8 (Petrol) 5 Cr*"
+    ],
+    "Continental": [
+      "GT Azure V8 (Petrol) 6.30 Cr*",
+      "GT Mulliner V8 (Petrol) 6.95 Cr*",
+      "GT Mulliner W12 (Petrol) 7.95 Cr*",
+      "GT S V8 (Petrol) 5.89 Cr*",
+      "Top Selling\nGT Speed (Petrol) 6.46 Cr*",
+      "GT Speed Edition 12 (Petrol) 6.57 Cr*",
+      "GT V8 (Petrol) 5.23 Cr*",
+      "GTC Azure V8 (Petrol) 6.94 Cr*",
+      "GTC Mulliner V8 (Petrol) 7.56 Cr*",
+      "GTC Mulliner W12 (Petrol) 8.45 Cr*",
+      "GTC S V8 (Petrol) 6.47 Cr*",
+      "GTC Speed (Petrol) 7.11 Cr*",
+      "GTC Speed Edition 12 (Petrol) 7.16 Cr*",
+      "GTC V8 (Petrol) 5.76 Cr*"
+    ],
+    "Flying Spur": [
+      "Top Selling\nHybrid Azure (Petrol) 6.58 Cr*",
+      "Mulliner V8 (Petrol) 7.31 Cr*",
+      "S Hybrid (Petrol) 6.40 Cr*",
+      "S V8 (Petrol) 6.35 Cr*",
+      "V6 Hybrid (Petrol) 5.25 Cr*",
+      "V8 (Petrol) 5.50 Cr*",
+      "V8 Azure (Petrol) 6.63 Cr*",
+      "V8 Hybrid (Petrol) 5.67 Cr*",
+      "Mulliner W12 (Petrol) 7.60 Cr*",
+      "Speed Edition 12 (Petrol) 7 Cr*",
+      "W12 Speed (Petrol) 6.82 Cr*"
+    ]
+  },
+  "Ferrari": {
+    "296 GTB": [
+      "Top Selling\nV6 hybrid (Petrol) 5.40 Cr*"
+    ],
+    "812": [
+      "Top Selling\nGTS (Petrol) 5.75 Cr*"
+    ],
+    "F8 Tributo": [
+      "Top Selling\nV8 Turbo (Petrol) 4.02 Cr*"
+    ],
+    "Roma": [
+      "Top Selling\nCoupe V8 (Petrol) 3.76 Cr*"
+    ],
+    "SF90 Stradale": [
+      "Top Selling\nCoupe V8 (Petrol) 7.50 Cr*"
+    ]
+  },
+  "Force": {
+    "Gurkha": [
+      "Top Selling\n2.6 Diesel (Diesel) 15.95 Lakh*"
+    ],
+    "Gurkha 5 Door": [
+      "Top Selling\nDiesel (Diesel) 17.27 Lakh*"
+    ],
+    "Urbania": [
+      "3350WB 10Str (Diesel) 26.34 Lakh*",
+      "3350WB 11Str (Diesel) 26.34 Lakh*",
+      "3615WB 14Str (Diesel) 28.89 Lakh*",
+      "3615WB 10Str (Diesel) 29.01 Lakh*",
+      "Top Selling\n3615WB 13Str (Diesel) 29.11 Lakh*",
+      "4400WB 14Str (Diesel) 31.61 Lakh*",
+      "4400WB 17Str (Diesel) 31.68 Lakh*",
+      "4400WB 13Str (Diesel) 31.83 Lakh*"
+    ]
+  },
+  "Genesis": {},
+  "Isuzu": {
+    "D-Max": [
+      "CBC HR 2.0 (Diesel) 11.20 Lakh*",
+      "Top Selling\nFlat Deck HR (Diesel) 11.52 Lakh*",
+      "Flat Deck HR 2.0 (Diesel) 11.62 Lakh*",
+      "Flat Deck HR AC 1.2 (Diesel) 11.89 Lakh*",
+      "Flat Deck HR AC 2.0 (Diesel) 11.98 Lakh*"
+    ],
+    "Hi-Lander": [
+      "Top Selling\n4x2 MT (Diesel) 20.35 Lakh*"
+    ],
+    "MU-X": [
+      "Top Selling\n4X2 AT (Diesel) 34.53 Lakh*",
+      "4x4 AT (Diesel) 37.71 Lakh*"
+    ],
+    "S-CAB": [
+      "Top Selling\nHi-Ride AC (Diesel) 13.37 Lakh*"
+    ],
+    "S-CAB Z": [
+      "Top Selling\n4x2 MT (Diesel) 15.39 Lakh*"
+    ],
+    "V-Cross": [
+      "4x2 Z AT (Diesel) 24.27 Lakh*",
+      "4x4 Z (Diesel) 24.98 Lakh*",
+      "Top Selling\n4x4 Z Prestige (Diesel) 26.06 Lakh*",
+      "4x4 Z Prestige AT (Diesel) 29.37 Lakh*"
+    ]
+  },
+  "Jaguar": {
+    "F-Pace": [
+      "2.0 R-Dynamic S Diesel (Diesel) 72.90 Lakh*",
+      "Top Selling\n2.0 R-Dynamic S (Petrol) 72.90 Lakh*"
+    ]
+  },
+  "Lamborghini": {
+    "Huracan EVO": [
+      "Tecnica (Petrol) 4.04 Cr*",
+      "Spyder (Petrol) 4 Cr*",
+      "STO (Petrol) 4.99 Cr*",
+      "Top Selling\nSterrato (Petrol) 4.61 Cr*"
+    ],
+    "Revuelto": [
+      "Top Selling\nLB 744 (Petrol) 8.89 Cr*"
+    ],
+    "Temerario": [
+      "V8 Hybrid (Petrol) 6 Cr*"
+    ],
+    "Urus": [
+      "Top Selling\nPerformante (Petrol) 4.22 Cr*",
+      "S (Petrol) 4.18 Cr*",
+      "SE Plugin Hybrid (Petrol) 4.57 Cr*"
+    ]
+  },
+  "Land Rover": {
+    "Defender": [
+      "3.0 l Diesel 90 X-Dynamic HSE (Diesel) 1.19 Cr*",
+      "3.0 l Diesel 110 X-Dynamic HSE (Diesel) 1.26 Cr*",
+      "3.0 l Diesel 110 Sedona Edition (Diesel) 1.33 Cr*",
+      "3.0 l Diesel 110 X (Diesel) 1.35 Cr*",
+      "3.0 l Diesel 130 X-Dynamic HSE (Diesel) 1.39 Cr*",
+      "3.0 l Diesel 130 X (Diesel) 1.48 Cr*",
+      "Top Selling\n2.0 l Petrol 110 X-Dynamic HSE (Petrol) 98 Lakh*",
+      "5.0 l V8 Petrol 110 X-Dynamic HSE (Petrol) 1.39 Cr*",
+      "5.0 l V8 Petrol 90 X (Petrol) 1.42 Cr*",
+      "5.0 l V8 Petrol 110 X (Petrol) 1.48 Cr*",
+      "5.0 l V8 Petrol 130 X-Dynamic HSE (Petrol) 1.54 Cr*",
+      "2.0 l Petrol 110 PHEV Sedona Red Edition (Petrol) 1.60 Cr*",
+      "5.0 l V8 Petrol 130 X (Petrol) 1.63 Cr*",
+      "5.0 l V8 Petrol 110 V8 (Petrol) 1.67 Cr*",
+      "4.4 l V8 Petrol 110 OCTA (Petrol) 2.42 Cr*",
+      "4.4 l V8 Petrol 110 OCTA Edition One (Petrol) 2.60 Cr*"
+    ],
+    "Discovery": [
+      "3.0 Diesel S (Diesel) 1.25 Cr*",
+      "3.0 Diesel Dynamic HSE (Diesel) 1.30 Cr*",
+      "3.0 Diesel Metropolitan Edition (Diesel) 1.37 Cr*"
+    ],
+    "Discovery Sport": [
+      "Dynamic SE Diesel (Diesel) 63.37 Lakh*",
+      "Dynamic SE (Petrol) 63.37 Lakh*"
+    ],
+    "Range Rover": [
+      "3.0 I Diesel LWB HSE (Diesel) 2.31 Cr*",
+      "3.0 l Diesel LWB SV (Diesel) 3.83 Cr*",
+      "Top Selling\n3.0 I LWB Autobiography (Petrol) 2.57 Cr*",
+      "4.4 l Petrol LWB SV (Petrol) 4.25 Cr*"
+    ],
+    "Range Rover Evoque": [
+      "Autobiography Diesel (Diesel) 64.86 Lakh*",
+      "Top Selling\nAutobiography (Petrol) 64.86 Lakh*"
+    ],
+    "Range Rover Sport": [
+      "3.0 l Diesel Dynamic HSE (Diesel) 1.38 Cr*",
+      "3.0 l Petrol Dynamic HSE (Petrol) 1.38 Cr*",
+      "3.0 l PHEV Autobiography (Petrol) 1.96 Cr*",
+      "4.4 l Autobiography (Petrol) 1.97 Cr*",
+      "4.4 l SV Edition Two (Petrol) 2.75 Cr*"
+    ],
+    "Range Rover Velar": [
+      "2.0 l Diesel Autobiography (Diesel) 83.90 Lakh*",
+      "Top Selling\n2.0 l Petrol Autobiography (Petrol) 83.90 Lakh*"
+    ]
+  },
+  "Leapmotor": {},
+  "Lexus": {
+    "ES": [
+      "300h Exquisite (Petrol) 62.65 Lakh*",
+      "Top Selling\n300h Luxury (Petrol) 68.23 Lakh*"
+    ],
+    "LM": [
+      "Top Selling\n350h 7 Seater VIP (Petrol) 2.15 Cr*",
+      "350h 4 Seater Ultra Luxury (Petrol) 2.69 Cr*"
+    ],
+    "LX": [
+      "Top Selling\n500d (Diesel) 2.80 Cr*",
+      "500d Overtrail (Diesel) 2.91 Cr*"
+    ],
+    "NX": [
+      "Sigma (Petrol) 6.85 Lakh*",
+      "Delta (Petrol) 7.65 Lakh*",
+      "Top Selling\nDelta Plus (Petrol) 8.04 Lakh*",
+      "Delta Plus Opt (Petrol) 8.05 Lakh*",
+      "Delta AMT (Petrol) 8.15 Lakh*",
+      "Delta Plus AMT (Petrol) 8.54 Lakh*",
+      "Delta Plus Opt AMT (Petrol) 8.55 Lakh*",
+      "Delta Plus Turbo (Petrol) 8.92 Lakh*",
+      "Zeta Turbo (Petrol) 9.71 Lakh*",
+      "Alpha Turbo (Petrol) 10.56 Lakh*",
+      "Alpha Turbo DT (Petrol) 10.70 Lakh*",
+      "Zeta Turbo AT (Petrol) 10.99 Lakh*",
+      "Alpha Turbo AT (Petrol) 11.84 Lakh*",
+      "Alpha Turbo DT AT (Petrol) 11.98 Lakh*",
+      "Sigma CNG (CNG) 7.79 Lakh*",
+      "Top Selling\nDelta CNG (CNG) 8.59 Lakh*"
+    ],
+    "RX": [
+      "350h Luxury Lexus Premium System (Petrol) 96.13 Lakh*",
+      "500h F SPORT Lexus Premium System (Petrol) 1.18 Cr*"
+    ]
+  },
+  "Lotus": {
+    "Eletre": [
+      "Base (Electric) 2.55 Cr*",
+      "S (Electric) 2.75 Cr*",
+      "Top Selling\nR (Electric) 2.99 Cr*"
+    ],
+    "Emeya": [
+      "GT (Electric) 2.34 Cr*"
+    ],
+    "Emira": [
+      "Turbo SE (Petrol) 3.22 Cr*"
+    ]
+  },
+  "Maserati": {
+    "GranCabrio": [
+      "Sport Diesel (Diesel) 2.46 Cr*",
+      "MC Diesel (Diesel) 2.69 Cr*",
+      "4.7 V8 (Petrol) 2.46 Cr*",
+      "Top Selling\n4.7 MC (Petrol) 2.69 Cr*"
+    ],
+    "GranTurismo": [
+      "Sport Diesel (Diesel) 2.25 Cr*",
+      "4.7 V8 (Petrol) 2.25 Cr*",
+      "Top Selling\n4.7 MC (Petrol) 2.51 Cr*"
+    ],
+    "Grecale": [
+      "Top Selling\nGT (Petrol) 1.31 Cr*",
+      "Modena (Petrol) 1.53 Cr*",
+      "Trofeo (Petrol) 2.05 Cr*"
+    ],
+    "Levante": [
+      "GranSport Diesel (Diesel) 1.51 Cr*",
+      "GranLusso Diesel (Diesel) 1.54 Cr*",
+      "350 GranSport (Petrol) 1.49 Cr*",
+      "Top Selling\n350 GranLusso (Petrol) 1.53 Cr*",
+      "430 GranSport (Petrol) 1.60 Cr*",
+      "430 GranLusso (Petrol) 1.64 Cr*"
+    ],
+    "Quattroporte": [
+      "GranLusso Diesel (Diesel) 1.72 Cr*",
+      "GranSport Diesel (Diesel) 1.78 Cr*",
+      "350 GranLusso (Petrol) 1.71 Cr*",
+      "Top Selling\n350 GranSport (Petrol) 1.77 Cr*",
+      "430 GranLusso (Petrol) 1.80 Cr*",
+      "430 GranSport (Petrol) 1.86 Cr*"
+    ]
+  },
+  "Mclaren": {
+    "750S": [
+      "Top Selling\nCoupe (Petrol) 5.91 Cr*"
+    ],
+    "GT": [
+      "2.0 TSI (Petrol) 50.91 Lakh*"
+    ]
+  },
+  "Mini": {
+    "Cooper 3 DOOR": [
+      "Cooper D (Diesel) 29.90 Lakh*",
+      "Cooper S Carbon Edition (Petrol) 39.90 Lakh*",
+      "Cooper S BSVI (Petrol) 41.20 Lakh*",
+      "Paddy Hopkirk Edition (Petrol) 41.70 Lakh*",
+      "S (Petrol) 42.70 Lakh*",
+      "John Cooper Works 2019-2020 (Petrol) 43.90 Lakh*",
+      "Inspired Edition (Petrol) 46.90 Lakh*"
+    ],
+    "Cooper Convertible": [
+      "S (Petrol) 58.50 Lakh*"
+    ],
+    "Cooper Countryman 2021-2025": [
+      "Cooper S (Petrol) 42 Lakh*",
+      "Cooper S JCW Inspired BSVI (Petrol) 47.40 Lakh*",
+      "S JCW Inspired (Petrol) 48.10 Lakh*",
+      "Shadow Edition (Petrol) 49 Lakh*"
+    ],
+    "Cooper S": [
+      "Top Selling\nSTD (Petrol) 43.70 Lakh*",
+      "Classic Pack (Petrol) 49.15 Lakh*",
+      "Favoured Pack (Petrol) 52 Lakh*",
+      "JCW Pack (Petrol) 54.40 Lakh*"
+    ],
+    "Cooper SE": [
+      "Electric (Electric) 53.50 Lakh*"
+    ],
+    "Countryman": [
+      "Cooper S (Petrol) 42 Lakh*",
+      "Cooper S JCW Inspired BSVI (Petrol) 47.40 Lakh*",
+      "S JCW Inspired (Petrol) 48.10 Lakh*",
+      "Shadow Edition (Petrol) 49 Lakh*"
+    ],
+    "Countryman Electric": [
+      "Top Selling\nFavoured Pack (Electric) 59.95 Lakh*",
+      "S (Electric) 54.90 Lakh*"
+    ]
+  },
+  "PMV": {
+    "EaS E": [
+      "Top Selling\nElectric (Electric) 4.79 Lakh*"
+    ]
+  },
+  "Porsche": {
+    "911": [
+      "Carrera (Petrol) 2 Cr*",
+      "Carrera 4 GTS (Petrol) 2.78 Cr*",
+      "Turbo 50 Years (Petrol) 3.77 Cr*",
+      "Turbo S (Petrol) 3.80 Cr*"
+    ],
+    "Cayenne": [
+      "Top Selling\nSTD (Petrol) 1.39 Cr*",
+      "GTS (Petrol) 1.94 Cr*"
+    ],
+    "Cayenne Coupe": [
+      "Top Selling\nSTD (Petrol) 1.44 Cr*",
+      "GTS (Petrol) 1.95 Cr*"
+    ],
+    "Cayenne Electric": [
+      "Standard (Electric) 1.76 Cr*",
+      "Turbo (Electric) 2.26 Cr*"
+    ],
+    "Macan": [
+      "Standard (Petrol) 89.65 Lakh*"
+    ],
+    "Macan EV": [
+      "Top Selling\nStandard (Electric) 1.22 Cr*",
+      "4S (Electric) 1.39 Cr*",
+      "Turbo (Electric) 1.69 Cr*"
+    ],
+    "Panamera": [
+      "Top Selling\nSTD Hybrid (Petrol) 1.71 Cr*",
+      "GTS (Petrol) 2.33 Cr*"
+    ],
+    "Taycan": [
+      "STD (Electric) 1.70 Cr*",
+      "4S (Electric) 1.96 Cr*",
+      "Top Selling\nTurbo (Electric) 2.69 Cr*"
+    ]
+  },
+  "Pravaig": {
+    "DEFY": [
+      "Top Selling\nHacker Edition (Electric) 39.50 Lakh*"
+    ]
+  },
+  "Rolls-Royce": {
+    "Cullinan": [
+      "Top Selling\nSeries II (Petrol) 10.50 Cr*",
+      "Black Badge Series II (Petrol) 12.25 Cr*"
+    ],
+    "Ghost Series II": [
+      "Standard (Petrol) 8.95 Cr*",
+      "Top Selling\nExtended Wheelbase (Petrol) 10.19 Cr*",
+      "Black Badge (Petrol) 10.52 Cr*"
+    ],
+    "Phantom": [
+      "Top Selling\nSeries II (Petrol) 8.99 Cr*",
+      "Extended Wheelbase (Petrol) 10.48 Cr*"
+    ],
+    "Spectre": [
+      "Top Selling\nElectric (Electric) 7.50 Cr*"
+    ]
+  },
+  "Strom Motors": {
+    "R3": [
+      "Top Selling\n2-Door (Electric) 4.50 Lakh*"
+    ]
+  },
+  "Tesla": {
+    "Model 3": [],
+    "Model Y": [
+      "RWD (Electric) 59.89 Lakh*",
+      "RWD Full Self Driving (Electric) 65.89 Lakh*",
+      "Long Range RWD (Electric) 67.89 Lakh*",
+      "Long Range RWD Full Self Driving (Electric) 73.89 Lakh*"
+    ]
+  },
+  "Vayve Mobility": {
+    "Eva": [
+      "Nova (Electric) 3.25 Lakh*",
+      "Stella (Electric) 3.99 Lakh*",
+      "Vega (Electric) 4.49 Lakh*"
+    ]
+  },
+  "VinFast": {
+    "VF6": [
+      "Earth (Electric) 16.49 Lakh*",
+      "Wind (Electric) 17.79 Lakh*",
+      "Wind Infinity (Electric) 18.29 Lakh*"
+    ],
+    "VF7": [
+      "Earth (Electric) 20.89 Lakh*",
+      "Wind (Electric) 23.49 Lakh*",
+      "Wind Infinity (Electric) 23.99 Lakh*",
+      "Sky (Electric) 24.99 Lakh*",
+      "Sky Infinity (Electric) 25.49 Lakh*"
+    ]
+  },
+  "Volvo": {
+    "EC40": [
+      "Top Selling\nE80 (Electric) 59 Lakh*"
+    ],
+    "EX30": [
+      "RWD Ultra (Electric) 39.99 Lakh*"
+    ],
+    "EX40": [
+      "Top Selling\nE60 Plus (Electric) 49 Lakh*"
+    ],
+    "XC60": [
+      "B5 (Petrol) 67.11 Lakh*"
+    ],
+    "XC90": [
+      "B5 AWD (Petrol) 96.97 Lakh*"
+    ]
+  }
+}

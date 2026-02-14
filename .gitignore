@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Logs and large data (optional: remove *.json if you want to track data)
+*.log
+variant_features.json
+variant_features_test*.json
+variant_features_test_improved.json
+
+# Config with secrets (use config.yaml.example for template)
+config.yaml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

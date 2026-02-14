@@ -1,0 +1,9 @@
+# Copy to config.yaml and fill in your values.
+# Used for Azure Blob upload of per-brand files {brand_name}_{date}.json
+
+azure:
+  connection_string: "DefaultEndpointsProtocol=https;AccountName=YOUR_ACCOUNT;AccountKey=YOUR_KEY;EndpointSuffix=core.windows.net"
+  container_name: "cardekho-variant-features"
+  blob_prefix: ""
+
+# output_dir: "./output"
