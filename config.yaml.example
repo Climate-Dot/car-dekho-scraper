@@ -7,3 +7,10 @@ azure:
   blob_prefix: ""
 
 # output_dir: "./output"
+
+# Azure SQL for ingest_variant_specs.py (or pass --db-config pointing at a config.yaml with this section)
+# database:
+#   server: "YOUR_SERVER.database.windows.net"
+#   database: "YOUR_DATABASE"
+#   username: "YOUR_USER"
+#   password: "YOUR_PASSWORD"
