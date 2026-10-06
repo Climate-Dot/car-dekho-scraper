@@ -221,6 +221,62 @@ def build_url(brand: str, model: str, variant: str) -> str:
     return url
 
 
+# CarDekho's raw schema.org bodyType values -> canonical labels.
+# Values not listed here are passed through title-cased (and logged) so new types are not lost.
+BODY_TYPE_MAP = {
+    "suv": "SUV",
+    "muv": "MUV",
+    "hatchback": "Hatchback",
+    "sedan": "Sedan",
+    "coupe": "Coupe",
+    "convertible": "Convertible",
+    "pickup-truck": "Pickup Truck",
+    "minivan": "Minivan",
+    "wagon": "Wagon",
+    "station wagon": "Wagon",
+}
+
+
+def extract_body_type(page_source: str) -> Optional[str]:
+    """
+    Extract the raw body type (e.g. "Suv", "Sedan") of the car a variant page is about.
+
+    Body type is not shown in the visible spec tables; it only exists in the page's
+    schema.org JSON-LD (<script type="application/ld+json">) as the "bodyType" of the
+    object whose "@type" is "Car" (variant pages) or includes "Car" (model pages use
+    ["Car", "ProductGroup"]). The page also contains many other "bodyType" values
+    (popular/similar car widgets), so a plain text search must NOT be used.
+    """
+    blocks = re.findall(
+        r'<script[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+        page_source,
+        re.DOTALL | re.IGNORECASE,
+    )
+    for block in blocks:
+        try:
+            data = json.loads(block)
+        except ValueError:
+            continue
+        objects = data if isinstance(data, list) else [data]
+        for obj in objects:
+            if not isinstance(obj, dict):
+                continue
+            if isinstance(obj.get("@graph"), list):
+                objects.extend(obj["@graph"])
+            types = obj.get("@type")
+            is_car = types == "Car" or (isinstance(types, list) and "Car" in types)
+            if is_car and obj.get("bodyType"):
+                return str(obj["bodyType"]).strip()
+    return None
+
+
+def normalize_body_type(raw: Optional[str]) -> Optional[str]:
+    """Map a raw CarDekho bodyType to a canonical label (see BODY_TYPE_MAP)."""
+    if not raw:
+        return None
+    return BODY_TYPE_MAP.get(raw.strip().lower(), raw.strip().title())
+
+
 def extract_table_sections(browser: webdriver.Chrome, url: str, logger: logging.Logger) -> Dict[str, Dict[str, str]]:
     """
     Extract table data sections from the variant page.
@@ -843,10 +899,17 @@ def extract_key_specifications(browser: webdriver.Chrome, url: str, logger: logg
             table_sections = extract_table_sections(browser, url, logger)
             logger.debug(f"Extracted {len(table_sections)} table sections: {list(table_sections.keys())}")
             
-            # Return both key specifications (quick overview) and table sections (detailed specs)
+            # Step 7: Extract body type from the page's schema.org JSON-LD (not in visible tables)
+            body_type_raw = extract_body_type(browser.page_source)
+            if not body_type_raw:
+                logger.warning(f"Body type not found in JSON-LD for {url}")
+
+            # Return key specifications (quick overview), table sections (detailed specs) and body type
             return {
                 'key_specifications': specs if specs else {},  # Overview specs from top of page
-                'table_sections': table_sections  # Detailed specs from tables further down
+                'table_sections': table_sections,  # Detailed specs from tables further down
+                'body_type': normalize_body_type(body_type_raw),
+                'body_type_raw': body_type_raw,
             }
             
         except Exception as e:
@@ -961,7 +1024,9 @@ def process_variants(
                             'url': url,  # The CarDekho URL for this variant
                             'cleaned_variant_name': clean_variant_name(variant),  # URL-friendly variant name
                             'key_specifications': extracted_data.get('key_specifications', {}),  # Overview specs
-                            'table_sections': extracted_data.get('table_sections', {})  # Detailed table sections
+                            'table_sections': extracted_data.get('table_sections', {}),  # Detailed table sections
+                            'body_type': extracted_data.get('body_type'),  # Canonical, e.g. "SUV"
+                            'body_type_raw': extracted_data.get('body_type_raw'),  # As on CarDekho, e.g. "Suv"
                         }
                     else:
                         # If extraction failed (404, etc.), still store the entry with empty data
@@ -969,7 +1034,9 @@ def process_variants(
                             'url': url,
                             'cleaned_variant_name': clean_variant_name(variant),
                             'key_specifications': {},
-                            'table_sections': {}
+                            'table_sections': {},
+                            'body_type': None,
+                            'body_type_raw': None,
                         }
                     
                     # Step 7: Save progress periodically (every 10 variants)

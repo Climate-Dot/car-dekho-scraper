@@ -21,6 +21,10 @@ This README is written as an engineering handoff document so the codebase is pre
     - Combined file: `variant_features.json` (or `--output`).
     - Per-brand files: `{brand_name}_{YYYY-MM-DD}.json`.
   - Optional Azure upload for each per-brand file.
+- `get_body_types.py`
+  - Backfills body type per model (not in the visible spec tables; read from the page's schema.org JSON-LD).
+  - Plain HTTP, no Selenium; tries up to 3 variant pages per model.
+  - Output: `body_types_{YYYY-MM-DD}.json` (`{brand: {model: {body_type, body_type_raw, source_url, final_url}}}`), uploaded to the same Azure container.
 - `test_variant_features.py`
   - Random sample test runner (`--count`, default 10).
   - Output: `test_variant_features_results.json`.
@@ -137,6 +141,8 @@ python3 test_variant_features.py [--input brand_model_map.json] [--count 10] [--
       "STD (Petrol) 3.70 Lakh*": {
         "url": "https://www.cardekho.com/overview/...",
         "cleaned_variant_name": "STD",
+        "body_type": "Hatchback",
+        "body_type_raw": "Hatchback",
         "key_specifications": {
           "Engine": "998 cc"
         },
