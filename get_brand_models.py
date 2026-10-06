@@ -29,6 +29,10 @@ def create_browser_options() -> webdriver.ChromeOptions:
     """Create and configure Chrome browser options."""
     browser_options = webdriver.ChromeOptions()
     browser_options.browser_version = "stable"
+    browser_options.add_argument("--headless=new")
+    browser_options.add_argument("--no-sandbox")
+    browser_options.add_argument("--disable-dev-shm-usage")
+    browser_options.add_argument("--disable-gpu")
     browser_prefs = {
         "credentials_enable_service": False,
         "profile.password_manager_enabled": False,
