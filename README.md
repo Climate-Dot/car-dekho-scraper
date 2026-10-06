@@ -25,6 +25,12 @@ This README is written as an engineering handoff document so the codebase is pre
   - Backfills body type per model (not in the visible spec tables; read from the page's schema.org JSON-LD).
   - Plain HTTP, no Selenium; tries up to 3 variant pages per model.
   - Output: `body_types_{YYYY-MM-DD}.json` (`{brand: {model: {body_type, body_type_raw, source_url, final_url}}}`), uploaded to the same Azure container.
+- `ingest_variant_specs.py`
+  - Loads the latest `{brand}_{date}.json` per brand (Azure Blob or `--input-dir`) into Azure SQL `cardekho.fact_variant_specs`, one row per variant per snapshot.
+  - Typed columns for the business fields (price, body type, dimensions, power/torque, `is_ev`, fuel tank/efficiency for ICE, range/battery/charging for EV) plus the raw `specs_json`.
+  - Stages into `cardekho.staging_variant_specs`, then replaces the `(snapshot_date, brand)` scope in one transaction (re-runs are idempotent; older snapshots are kept).
+  - `--dry-run` prints a field coverage report without touching the database; `--db-config` points at a config.yaml with a `database` section.
+  - Tables: `sql/migrations/2026-10-06_create_cardekho_variant_specs.sql` (additive only).
 - `test_variant_features.py`
   - Random sample test runner (`--count`, default 10).
   - Output: `test_variant_features_results.json`.
